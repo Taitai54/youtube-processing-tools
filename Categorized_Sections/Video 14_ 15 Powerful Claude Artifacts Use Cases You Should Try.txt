@@ -1,0 +1,114 @@
+15 Powerful Claude Artifacts Use Cases You Should Try
+URL: https://www.youtube.com/watch?v=UA2W4xTqQzs
+from all the different AI tools that I've tested for the last 6 months I think Claude artifact might be my
+favorite and in this video I want to show you exactly how to use it I going to show you 15 really
+interesting practical examples on how to use it and it just became available completely for free to
+everyone starting today I think the best way to show you what cloud art effect is and what it could do is
+showing you this example first then I'll show you actually how to activate it and then I'll show you 15
+different examples as well that are very practical here is the App Store on my Mac I'm going to take a
+screenshot of it just like this I'm going to go to claw. a and then I'm going to go ahead and upload this
+add contents and I'm going to say create a web app using this image this is my only prompt then all I
+have to do is choose a model so I'm going to use claw 3.5 Sonet right now that is a paid model but it is
+extremely powerful but you could use the free ones and artifact still works I'm going to send this out and
+this is what art effect is you see on the right side it's writing some code you don't have to even look at
+the codee and then it's going to give you us a visual presentation of what this app actually looks like
+and that was my very first attempt so here is the app right here and what you could do is you could
+press publish right over here publish it it's going to create a link for you you're going to click this link it's
+going to open up this website and this is what the app ends up looking like and you could share this link
+with anyone and they could review it and this is just a web link this is not published on on the web so
+you could share this link with anyone obviously I want to flush this out I want to add my own tools here
+and then if someone wants to remix it meaning they could just take it from here and add to it they could
+press remix artifact down here and it's going to go ahead and recreate that exact same app in their
+cloud account and then they could have a follow-up revision here and add more to it or edit it the way
+they want now Cloud artifact is available and it should be turned on already if it's not for some reason
+and you don't see it doing what I just showed you when you ask it to create something if you press your
+profile icon right here you could go to Future preview and it was showing up over here now it's part of
+CLA so you don't have to turn it on but just in case it's not in yours go ahead and check this page and
+this one is a new one too they usually roll out new options like this where you could turn them on and
+off okay let me show you some examples let me just show you a few very basic ones and then we'll get
+some more advanced dashboards and interactive apps and games and things like that this one right
+here I just asked it to show me Claud artifact use cases and to create a diagram for me so this is the
+diagram he created for me and he gave me all kinds of different things you could do so again it could
+generate code and some of the more practical use cases that I use in day-to-day business is data
+visualization so anytime I have to do a presentation now I just created a web app like this publish it
+send that person a link and they have an interactive chart which I'm going to show you a bunch of
+examples so it could do those things create flowart charts it could create mind maps it could also create
+interactive components like an entire web app again from a screenshot or from a text prompt it could
+create data dashboards is one of my favorite option interactive forms even learning lessons which I'm
+going to show you too okay next on our list is interactive sales dashboard this is data visualization so
+you could upload over here they have a little upload icon where you could give it different documents or
+CSV files that have data or a PDF and it's going to pull in and create this interactive chart and all you
+have to do is say turn this data into an interactive sales dashboard that was the prompt and it created it
+here's our sales here's our profit and it's broken up month by month and then we could go ahead and
+press publish again I'm just using sample data here but you could use it with your real information here
+I just want to show you one quick functionality that might come in if you're building a more
+comprehensive web app here but this could also sort data so if I press sort it's going to know that this
+should be 1 through 7even and you can see it's moving seven over it's moving five it looks like we didn't
+have six in this mix but it did visualize it in the right order it could also create visual charts for you so
+these are really nice you could just download this as an image or share it inside of a different type of a
+presentation you could create simple to-do list apps so this one I'm just going to add a to-do right here
+you could go ahead and check this off right here you could go ahead and remove it again this took a
+Page 78
+simple prompt to create a simple to-do list app without any instructions I had previously made one that
+was based on micros Microsoft to-do which is a to-do list app I use and it was pretty robust right here
+and it took me about seven tries to get it to be exactly like Microsoft to do and function exactly like
+Microsoft to do I have a different video that I made about this that shows you how to take a screenshot
+and turn it into a web app like this and then go ahead and publish it here and share it with your team
+now here's a little bit more advanced of a dashboard so this one I called business intelligence
+dashboard and you could see it has sales performance it has market share if I refresh this page you
+could see it has animations interactivity we have Financial forecast again expense and profit very
+detailed month by month just imagine in a presentation you create something like this for your job
+rather than just the same old boring PowerPoint presentations that people usually share in those things
+and we have the breakdown again you could upload your own data so you could use your own data for
+this and not just some madeup numbers and because we again designing this inside a Claude we're
+not even looking at the code if you wanted to look at the code this is the code right here but it's always
+going to take us to this artifacts preview and anything we don't like if we visually don't like something we
+could go ahead and ask for a followup and it's going to go ahead and revise that for us and again just
+press publish and share it and here's an interactive stock market dashboard very simple prompts by the
+way I just said create an interactive stock market dashboard it created one it picked these stocks it
+made up the numbers then with a follow-up prompt I could say now use this data to populate this
+dashboard after I get it to look exactly like I want and it has a very simple layouts but again could be
+very handy for a lot of different use cases now here's one this is called real-time social media sentiment
+analyzer and it has different social medias that I've added here in this dropdown and this was again my
+very first prompt and it's going to go ahead and take sample post from different social media tell you if
+they're positive neutral or negative again I was trying to use this to see if more of my YouTube
+comments are questions or they're just comments so I could try my best to reply to them and this could
+analyze that for me this was my first attempt I usually make the dashboard get it to the way I want and
+then in the second step when it's there I add some data to it that's actual data after I get the layout now
+here's a couple of different things that could come in handy for education so I made a simple game
+teaching people large language models interactive game here and it's just a true and false game so if
+someone answers here this just three simple questions they will get and score again I could go ahead
+and publish this share the link and then anybody could go ahead and take this test here's a much more
+comprehensive version of it so this is a full-blown presentation and let me show you the presentation
+first this is a very basic PowerPoint presentation straight out of chat GPT chat GPT could help you draft
+a presentation and then just give you the Powerpoint file so all I did was after this power PowerPoint file
+was finished which is something I'm doing in an actual presentation that I flushed out with my own
+information and with the help of chat GPT I haven't formatted it because I wanted to turn it into an
+interactive chart inside a clot so I saved it as a PDF I just pressed this little upload icon I uploaded it and
+I said turn this into an interactive lesson that was my only prompt now here's what it looks like so people
+could go through this interactive lesson go to the next lesson like this and you could see it's adding to
+the percentage as it's getting closer to 100% they could also take this quiz here which is really nice
+each little lesson has a quiz that goes along with it now for an educator like me this is just a fantastic
+tool so I could see more teachers using it I haven't looked at a single line of code to create all these
+things inside of the cloud website right now now here's another cool thing you could create a competitor
+dashboard so all I did was I went on this website view stat this is something Mr Beast has made I took a
+screenshot let's say I want to to show someone the top 10 YouTube channels and compare them right I
+could do this in my specific category of AI and Tech and things like that I uploaded that dashboard this
+is what we got let me go ahead and publish it and here is that dashboard again very interactive is
+showing subscribers and Views and you have this channel ranking you could also sort them right here
+which is really nice and he did that again with like a prompt or two and each prompt was just a sentence
+and a revision to just improve the formatting here now here's a little fun game of snake I made so it
+works fine let me just crash into the wall here let's go this way okay exactly how a game of snake could
+work and again this was make a game of snake I didn't say react this is what the language the coding
+language that he decided to choose but we don't have to worry about that again this is just for anybody
+that could just turn a simple text prompt into a working interactive app now if you're not too familiar with
+Page 79
+Claude they also have something else called Claude projects and when you combine projects and
+artifact you get something very powerful this is part of their paid plan with projects what you could do is
+give it its own knowledge base it could actually take ton of different PDFs for example from your
+company's information or your personal information and it also has its own set of instructions that you
+could give it so I did create a different video about exactly how projects work very powerful option and
+with artifacts if you have any practical use cases that you're trying to R let me know in the comment
+section so I could use that as an example for an upcoming video thanks so much for watching I'll see
+you next time
+References and Recommendations: No references or recommendations found.

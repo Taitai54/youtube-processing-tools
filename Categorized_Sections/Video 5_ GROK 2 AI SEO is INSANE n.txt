@@ -1,0 +1,400 @@
+GROK 2 AI SEO is INSANE n
+URL: https://www.youtube.com/watch?v=FFTK7tEe4O8
+about grock and grock 2 which is the brand new release this literally just got announced a few hours
+ago you can see grock 2 mini beta right there is ready to go and we're going to be talking through
+because this is pretty urgent to share with you basically there's a new player in town grock 2 turning the
+SEO game on its head I'm going to show you what it does differently to GPT we're going to be
+comparing it directly against GPT and Claude and that's just the tip of the iceb because today as well
+we're going to be talking about how to create SEO optimized content the ranks We're going to be
+talking about the fun mode trick that unlocks Rock's full potential and my grock is leaving chat GPT and
+CLA behind in some ways I'll be talking about that in a minute and we'll get straight into this bad boy
+now this is live so if you have any questions feel free to ask him as we go along otherwise I'm going to
+kick this bad boy off now if you're not sure what Gro is this is the AI model directly inside Twitter so it's
+launched by Elon Musk Elon Musk owns X he's launched his new AI model inside there called grock
+and this is the brand new version of it called Gro 2 now what's interesting about this is that this is
+actually available for free and I'll show you how to do it in a minute plus it can now generate images
+which I'll come on to in a minute and we'll be covering all the latest use cases for that gal says I'm
+starting to think Julian actually an AI there's no way this man has still has value to deliver thank you
+very much sir and what we're going to do now is I'll just be looking through and showing you some of
+the crazy stuff that people have created using grock plus how you can do similar things so if we actually
+look at the announcement you can see that grock actually just announced this and it wasn't it wasn't
+released so long ago so it was literally just announced a few hours ago yesterday and additionally I'm
+going to show you some examples of what Gro 2 looks like so if we type in grock 2 into the explore bar
+here it's trending like crazy right now and you can see some of the crazy stuff you can do with this now
+if you actually look at Gro it can actually generate memes and it can generate memes with famous
+people's faces as you can see right here and if we keep scrolling down for example you got Donald
+Trump sprinting in the Olympics Sprint to Trump as you can see right here if we go back some other
+stuff let's have a look why is that not loaded properly here's another one so you can see how it
+generates like cartoons you got Kim Jung over there as well so it generates famous people's faces
+which I've never seen before and it seems to have way less guard rails and way less restrictions versus
+anything in chat gbt and Claude here's another example so you can see for example you've got some
+interesting images here with Trump loads of people creating Trump memes at the minute and yeah it's
+it's crazy stuff in fact if you look at the actual thumbnail that we've generated for this video which you
+can see right here this thumbnail was generated with AI in one single click how did I do it using grock
+now one of the first places that we're going to start is I'm going to walk you through exactly how these
+modes work you can switch between beta and fun mode and non- fun mode right so this is the smaller
+version of Gro it's not like the full version full capability this is just a mini version because it's in beta
+mode right now and you can switch between fun mode or non- fun mode obviously you can guess what
+the differences between of them one one is more fun than the other and first of all how we're going to
+kick this off is we're going to use a prom that I usually use for create content and then we're going to
+plug that directly into grock so let me do that for a minute and you can see I pasted in this S&P; right
+here if you want to get access check out SEO systems in my free course and then go to Gro 2 and
+you'll find it right there and acram says Gro with a K not a q absolutely it's not to be confused with llama
+3.1 or anything that this is Gro with a K as you can see there so we're going to hit enter on this article
+and we'll see what it's like for generating content and how good it actually is now as we're waiting for
+that to run let's answer some of the other questions we've got Jason says hey good to see you on here
+mate and tourist spot 10 says please give me a prompt for optimizing article I think I gave you one last
+time mate but we're going to use the same prompt which is this one right here if you want the sap it's in
+the free course SEO systems and then Twitter what else we got Yash says nice nice to see you on here
+nram says what's the language model on this bad boy maybe we can check the languages in a second
+actually so you can see this is the content that's created now what I'm actually going to do is I will pull
+Page 22
+this up and I think to be a fair test bear in mind grock 2 is a mini version the only fair way to test it will be
+to test it versus chat gbt 40 because that is a mini version of Gro right that's a mini version of chat gbt
+so we're going to switch to GPT 40 and then we'll plug exactly the same prompt that we used inside
+Gro and compare what the content creation is like versus each two now I have a feeling which one's
+going to be best I'll tell you afterwards but I would honestly say that there's a lot more two gr that most
+people don't realize and I'll show you some more use cases for that in a minute what else we got here
+so go says thoughts on H using AG domains from what I've tested is I've run one test so I don't have
+like a statistically relevant test from what I've seen it's not working that well for me compared to new
+domains right so for example if you look at the new domain that we built out recently which we did after
+my public case study got wiped out you can see Julian gold. codk and you can see the traffic is going to
+the Moon right right and that was just in a couple of months that is a brand new domain had no history
+we just built some quality back on it put some quality content on it and it's a living the dream right gets
+more drafted than most websites I would say for me that is personally working better than age domains
+when I've tested both now I haven't got a statistically relevant case study for that so I'm not going to say
+this is the best option but that's just what's working for me so we're going to keep going through now
+and if we compare these side by side as you can see right here if we look at the content what I would
+say is if we for example look at the title and we'll compare chat GPT 40's title right here we'll compare
+that versus Twitter you can see the the title from chat gp40 is better quality and then if we scroll down
+you can see that the content itself is more interesting right so let me zoom in and I'll show you what I
+mean this content is certainly more interesting than the content written inside Gro if you ask me and
+then if we scroll down as well with the same prompt with the same keyword Etc if we compare these
+side by side you can see that grock isn't that good for creating SEO content simply because it doesn't
+give as much information and it's all about these bullet points you can see it's almost like a just a little
+reference list with with different bullet points now what you can also do is if you select some content you
+can click on ask Rock right there and then it will elaborate on the content that it's created right but
+honestly I just don't think it's that great for creating articles yet maybe that will change with the new
+model but yeah so far I'm seeing the chat gbt 40 which is free bear in mind Gro is paid unless you use a
+method that I'll show you in a second and so yeah I would say GPT 40 is still better when it comes to
+creating content I'm not even going to compare it to Claude because Claude of course is ridiculously
+powerful and it's not a mini model so I think it'd be unfair to compare those side by side what you can
+see here is what it looks like the content Etc now I'm going to run through some more use cases in a
+second including YouTube thumbnails and picture generation right now this is really powerful because
+for example if we go into Google and we'll type something like perplexity AO into Google not only can I
+rank on the first page of Google but I can also rank with my images so if you go to images right here
+you can see that my image which is a YouTube thumbnail is ranking number one for that keyword as
+well which is just another way of generating more traffic to that video same with this image right here
+and if we keep scrolling down same with this image and this one too right so you can rank with AI
+generated images you can host them on different platforms this is hosted on LinkedIn for example this
+one was hosted on YouTube you could host on your website wherever you want to host it but the main
+thing is that you can generate images with AI and then rank those directly on Google too so let me
+show you another example of how you can use Gro to do this so let's say for example I want to rank for
+the keyword grock SEO what I could do is if we go through some of my chat history right here and we'll
+look at some of the previous chats let me go back we'll go into previous chats and we'll scroll down and
+we'll click on a random example let me find one for you quickly here we won't be looking for casb seo
+let me have a look it's not even showing me the latest history right here all right let me show you an
+example of how to generate this we'll put Gro Elon Musk with a crazy AI robot that looks menacing right
+something like that and the thing that I've noticed when it comes to generating images with Gro and I've
+only tested this for a few hours but there more specific you can be with the prompt and the more basic
+and simple it is the better that's going to turn out right so for example you can see this image generated
+right here we could put the text on the left right here but that is an image that you could rank for Gro AI
+SEO which you'll see with this YouTube video when it ranks on Google as well so that's one of the best
+ways that I think you can rank with gr a Ico is that you generate images and then you rank those on
+Google because the image quality is so much better than chat GPT let me pull up another example so if
+Page 23
+we take exactly the same prompt and we go on to chat GPT 40 mini just to compare them side by side
+we'll hit in the same prompt right here and whilst we're waiting for that to load just one thing if you want
+to get a free SEO strategy session link is in the comments in the description and we can oneto one give
+you tips on how to grow your business how to get more Le traffic and sales of SEO and how to rank on
+Google based on what's working for me I've already shown you proof of that working right now so as an
+example if we compare the exact same prompt from grock which got us a fairly decent output I would
+say I'd probably still try and create some more interesting images but that's not bad for a first go if we
+compare that versus chat GPT you can see that chat GPT refuses my orders it's not listening to me it
+doesn't want to hear it right so for example I've put Elon mus with a crazy AI robot that looks menacing
+and it said I couldn't generate the image because the request didn't align with the content policy and if
+you want to adjust a description or create a new idea feel free to share it essentially go do one mate I
+don't care how much you pay me right and so Gro is performing better than chat GPT simply because
+it's less restricted and I find the same problem with for example Claude when I'm using Claude as well I
+have exactly the same problem where quite often dayto day I'll be restricted with what I can generate
+even if it's just a basic task and it's not even anything to do with PC stuff so it's to see that actually if you
+take the guard rails off an AI model it can be a lot more useful now obviously if that gets in the wrong
+hands good but yeah you get the image Neil says hi Julian shout out to you sir good to see you on here
+I'm we going to keep going through this now and if you do have any questions about this as we go
+along feel free to post it so we've covered so far fun mode versus normal we've covered creating and
+ranking articles using Gro Ai and how chat GPT is actually better for Content creation we've covered
+YouTube thumbnails and also how to rank images right so you can rank images you can create images
+like this you can actually ask it like can I use this on my website and for YouTube thumbnails let's ask it
+that we'll hit enter and it said you're welcome to use the image for your website or thumbnails but
+remember I'm just a text Bas AI right and so it can actually it actually gives you to use these images as
+you can see right here so the other thing that I would say and this is probably the most powerful thing
+about Twitter in general is that you can actually post articles directly inside Twitter and when you do this
+let me show you an example so when you do this it will appear on your article section on Twitter like
+here and you can see that some of these articles get a decent amount of views so for example if you
+published an article on your blog today it might take seven or two weeks so might take a month before
+you start getting any decent amount of views you can see already just by posting this article right here
+we got 400 views on this article you can see again we got 600 views on this article you can see with
+this article we got 88115 views right and so if you're posting content let's say you're creating it with Gro
+using the prompts I showed previously then creating it inside Twitter you can actually get a decent
+amount of views and sometimes more than your actual website as an example of that if we type in the
+keyword let's see AIC strategies into to Google like you can see right here we'll see what's ranking you
+can see that my Twitter article is ranking on Google right here and this was created four days ago but
+it's already got 800 views and so if you want to get a lot of traffic to your website quickly not only can
+you publish and rank that content with SEO but you can also post that article inside Twitter and get
+more views that way which means the same amount of work but you get bigger and better results like
+I'm showing you so that's one of the most powerful ways to use grow as well Doctor Who design says
+hello hello to you too and we've talked about ranking articles with Twitter directly the other cool thing
+that I want to show you right is that you can actually animate these images so let me go back to Grog
+let me find it here like you can see and then we'll go back to that chat that we just created this one right
+here as you can see and you can actually animate these images using Luma dreamlabs which is
+another fre tool for AI so if we go on to Luma Labs as you can see here's a couple of examples I
+created earlier so if we check out this particular thumbnail what I did was I downloaded the image from
+grock generated it inside grock and then uploaded it to Luma images and you can see it looks pretty
+cool if you ask me right and so you can animate and turn the memes or the gifs or the images that you
+create on grock and turn them into animated gifs like this and then they're basically AI videos but it's
+completely faceless pretty crazy stuff if you ask me so we've also talked about that the other thing that I
+want to show you with grock is that you can actually generate content around the latest events so let's
+go back to Gro and I'll show you what I mean we'll start a new chat you can click new chat in the top
+right and if we click on tell me today's headlines what this is going to do is it will actually generate the
+Page 24
+latest news and the headlines from today now why is that why does Gro have the latest information
+versus other platforms it's because grock has all this data coming in from people tweeting and talking
+about certain events that are happening and so it can use that data in real time to generate responses
+now it's not always 100% right and it doesn't always get the facts right as you can imagine with any sort
+of AI model but if you ask for example chat GPT or you ask Claude which are two direct competitors
+when was your last update and we'll plug the same question into Claude you can see that the last
+actually that's strange I've never seen that before but it says the last update for chat GPT was August
+2024 but yeah there we go so the knowledge base was updated to April 20124 inside Claude so even
+though Claude is really good for creating content it's not updated with the latest information whereas
+Gro it actually is updated with the latest automation now Harissa says Julian good job job as always
+happy to help thank you and glad it helps and you can see here for example is come up with a bunch of
+headlines for example as you can see in this headline it says political Shenanigans so these are the
+headlines from today and it says there's a buzz about Trump targeting Google and Cala Harris
+suggesting some sort of media manipulation it's like watching a Space Opera where the villain accuses
+a Galaxy's News Network bias right so if we go on to Google and we'll just check that headline is
+actually true and relevant we're going to type in for example Trump Google and Harris and see if that
+actually is a headline and as you can see right here there is a headline from today from six hours ago
+which is brand new news and it's been covered directly inside Gro so it's quite interesting to see if you
+were in a certain Niche where you're trying to create content on the latest news and topics I think this
+could be one of the best ways to do it because otherwise what you'd have to do is get the latest news
+from somewhere else and then upload that to Claude for Content creation now I've got a couple of
+questions let's see what we got here go says would you use Gro for blog images versus other
+Alternatives not sure how you go about images to use usually for blog posts yeah so I don't actually
+insert a lot of blogs a lot of images into my blogs but I'll show you an example of what this looks like in
+action so if we go to malet's post on LinkedIn and we'll look at some relevant articles I've created like for
+example this one what I usually do is I generate the image with AI and I use that as a banner image for
+the content like you can see right here now the thing to note here is if you look at it the image itself isn't
+as realistic as Gro so grock's images are way more realistic for example if I put lazy chat GPT AI robot
+surrounded by cache we'll put that image prompt into grock and we'll see what it comes back with
+versus chat GPT but like you can see right here the content from Gro is quite often sorry the content
+from chat GPT is quite often unrealistic right it's more like cartoon style whereas if you look at the image
+from grock it's more kind of like a shutter stock image or a stock image right and so I would say that if
+you want more realistic images go with Gro but if you want more images that are kind of like cartoon
+style then go with chat GPT that's my take movers says grock access is like $8 a month right I'm going
+to show you two ways you can I'm going to show you one way to access this for free actually and you
+can get access in the chatbot Arena right so if you go to LM arena. and I've included all the links I'm
+talking about inside the SCP and I've shown you how to get that today but you can actually get access
+to to sus column r that is a model inside the LM Arena that is actually grock to beta version and so you
+can use it for free inside here and so if you just want to get free access instantly just go to LM arena.
+aod equals Susy column up just like that URL right there so normally Gro directly inside Twitter is $8 a
+month for premium but you can get free access using this right here Neil says when I book a call of your
+company for a strategy session could we also discuss these kind of strategies because some people
+say SEO is dead I say SEO is dead all the time so yeah that's it if you book in a call with us link is in the
+comments and description or just go to julian. co.uk you can book in a call with us and we'll talk you
+through exactly how we're using AI to rank and some of our best strategy now one of the best ways you
+can learn how to do this is directly inside the SEO Elite circle inside the SEO Elite Circle we have a
+bunch of different courses on how you can rank with AI plus some of the newest systems I cannot show
+you on YouTube directly so if you want some of the most powerful ways to make money and rank with
+SEO and AI join the SEO Elite Circle and as a client you also get access to that too dword says I signed
+up with you how do I log in for the Mastery if you want to log in for SEO Mastery I mean I it sounds like
+you've logged in I it sounds like you've you've bought the link building Mastery course if that's the case
+um then you can just log in you'll see the email directly if you cannot find the email or login details just
+message us at me Julian gold.com send us the email address that you've bought with and we will give
+Page 25
+you instant access GC says thank you for all the videos so far may I ask you if you are planning to do
+any videos in programmatic SEO what's your thoughts on that my thoughts are that I have to be very
+careful what I show directly on YouTube because so many public case studies get slapped and so what
+I've actually done is you will find multiple programmatic SEO coaching sessions inside the SEO Elite
+Circle just go to the guest coaching sessions because I can't show that stuff on YouTube right no way I
+can show that on YouTube and mover says dope thanks for the GRE grop tip happy to help and Al
+Farah says Dar sucks so much just use something else mid Journey ideogram or flux so flux is actually
+the model inside Gro from what I remember I'm just going to double check that but I'm pretty sure the
+flux is a model let me double check we'll put flux grock inside Twitter and yeah you can see the grop 2
+when it dropped they snuck in the flocks model inside the image generation so that's what they're using
+to generate images inside this model is flux and it's pretty cool the fact that it's not guard railed pretty
+crazy stuff if you ask me the other thing that I would say is that if you're in a gray Niche let's say you're
+in some sort of gray Niche where normally you couldn't create content for your Niche with AI because
+there's guard rails on chat GPT or there's guard rails on Claude potentially I would imagine you could
+use something like Gro because it has less guard rails on what you can create on there as you can see
+right here like Mickey Mouse giving us a finger and smoking a cheeky little cigarette right there that's an
+example of how little this is guard real so it's crazy stuff to be honest with you let's keep going through
+now and I've talked about fun mode versus normal creating and ranking articles YouTube thumbnails
+I've talked about ranking images how to rank articles inside Twitter I've talked about Luma labs and
+also the latest news and recent updates inside gr that you can use for Content creation and we've also
+compared Claude versus chat GPT for outputs plus how you can use this for gry nich Content along
+with something else that's quite interesting so what you can do let me show you an example right here
+you can grab the URL of a tweet then you can go down to Gro and if you paste this URL into Gro as
+you can see so if you paste the URL from the post it will actually explain what the actual content is
+about right and as you can see it explains okay this is by that account blah blah blah it giv some
+examples of post from that person and it just gives a little breakdown on the post which is quite
+interesting as well now the other thing you can do is if you select some of the texts you can ask Rock
+and then it will expand on some of the other stuff it said so there's like 10 different ways you can use
+this and the thing that interests me is not how powerful Gro is right now but how powerful Gro will be on
+later updates because if it's using the data from Twitter and it's all fed in in real time then it's only going
+to become smarter and better and also you can see they're upgrading it in different ways now with Elon
+talking a lot about the freedom of speech that ties into the freedom of using AI right because for
+example you can see there's less guard rails you can see it's less restricted inside these AI models
+which means that if you can use this in ways that you're not restricted potentially that's going to appeal
+to a lot more people and people don't people are always looking for like ways to jailbreak AI anyway so
+this is one of the most powerful ways to just get this sort of content good Vib says you've been amazing
+in the last videos amazing value crazy you've got a new fan thanks so much really appreciate that and
+Good Vibes to you so thank you sir floor says this is great happy to help and master techno says okay
+well that's what I'm talking about all right so I want to run you through a few other notes that I've got
+right here including let me pull this up I want to I want to show you you how well this is performed so far
+right so you got to bear in mind that grock is a mini model right so it's not the most powerful model it's a
+smaller version and it's in beta so it's more like GPT 40 so I would keep your expectations low for now
+but when the full version comes out then it's going to be better the other thing that I've seen and some
+people have talked about this is that there's a limit now I've not seen a limit on this right so you can see
+for example some people saying there's a limit on how much you can create probably about 25 an hour
+when it comes to content on grock I've not seen that I've not seen any limits but that's an interesting
+thing to note also as you can see right here grock 2 image generation is better than llamas and has no
+dump guard rails which you can see right there and if you're wondering about the pricing of Gro like I
+said you can access it for free I've already shown you how to do that but also you can get access via
+premium which is $8 a month on Twitter so for example premium starts at $8 a month or $84 per year
+on the web the other thing that I want to show you is my Twitter sap for actually ranking and creating
+content because if you're thinking about using Twitter for SEO then you can use some of the workflows
+I've created that have proven to rank for me as you can see right here and then you can also Syndicate
+Page 26
+it into different posts right so you can take your SEO content you can Rank and create content directly
+Insite Twitter you can publish it and then you can Syndicate that content in multiple ways I've got two
+different automations right there the 100x content machine and the make.com automation this is all in
+the video notes as I've shown you how to get access you can get access inside the free course just go
+to SEO systems and then Gro 2 you'll find it and that's basically a way that you can rank with Twitter
+SEO now if you're wondering okay does Twitter actually Rank and that sort of thing I've already
+showing you an example but if we go into x.com and we'll look at their traffic and their growth and you
+can see that it's absolutely Ely outrageous so they've grown from a million traffic back in May to 22.4
+million traffic as you can see right here I think as more people are posting articles directly on Twitter
+and the easier it becomes to create content with Gro and then post it the moreo traffic Twitter is going
+to get and the easier it's going to be rank to rank with this content so something to bear in mind right
+here atram says is Gro connected to the internet can it scrape Google search results I don't think it can
+let's double check and we'll try it together so I'm going to try it right now I'm going to say what are the
+top 10 results on the first page of Google for perplexity a something like that we'll see what it comes
+back with and you can see that it just guesses so it's not connected to the internet just to confirm
+definitely not connected to Google and you can see that it cannot scrape or connect with the first page
+of Google really good question though acram great point right there and rapael says that link for free
+grock doesn't work they have many LMS there but not Gro so this is if you want to get access to Gro
+right let me just type it in right here we'll find the example right here so the model that is grock 2 on lmis
+is sus column R right and this is available inside the chatbot AR as you can see right here and so if you
+want to get access to it just go to the LM Arena and then find the sus column r model right here as an
+example of that here's me in the LM Arena on the model sus column R and I can use that as you can
+see right here and put in my prompts directly down here and that's how you can get access to grop two
+for free as you can see inside the chatbot Arena I'm confirming it for you I've shown you how to do it
+that's how you do it Vanessa says thanks for your input about grock happy to help and glad that this
+content helps you goal says for Twitter articles if your starting point is a blog post would you duplicate it
+as an article on Twitter or does that count as duplicate content if so how would you use Twitter in this
+instance so here's how I would use Twitter number one every time you post something new on a new
+platform make sure that your content is unique right so for example if you're posting to Reddit or you're
+posting to LinkedIn or you're posting to your website or to medium or to Twitter make sure your content
+is unique every single time and then from there you can use this workflow right here which you can see
+for example you can get the keywords using this method then you can create the content with AI using
+this method from there you can publish it and from there you can Syndicate it using these two
+automated tools is it spam no you're using the SEO checklist that I've given away many times inside my
+content and so that's basically how it works as an example of that if we go onto a keyword like
+perplexity AO you can see that the content that I've created and ranked on the first page of Google is
+unique every time and that's the key it's got to be unique because if it's duplicate content it will not rank
+so for example you can see this YouTube video ranking then this one on the first page these are
+created by myself and then from here you can go down and you can click on these example pages and
+if we do that you can see that the content I've posted on medium is unique to the content that I've
+created on LinkedIn two totally unique articles two totally different sets of content that's how you would
+use it Good Vibes only says can you access LM Arena through API automation ideas for posting latest
+news is crazy with Gro big love man so from what I've seen you cannot get the API through LMC Arena
+the way to do it is to get the API directly from grock so if you type in API grock on Google you'll get the
+access to the API but the problem is it's not the API from grock 2 because that's still in beta and the API
+for grock 2 has not been released yet I think they're planning to release it on Enterprise API plans but
+right now you can't get access access to it and so there's only the older version of Gro which I still think
+is okay but it's nowhere near as impressive as grock 2 right now to be honest with you let's have a look
+what else I wanted to cover in this video as we go along and yeah I'm I'm just pretty impressed with Gro
+I think it it will be a powerful way to generate content in the future particularly if you're in the news space
+and particularly if you're thinking about okay how do we use this step by step now this is a grock page
+so this is a grock API page as you can see right here and if you want to see the full details and the
+breakdown and the benchmarks of Gro you can see it inside this particular article you see grock 2 Beta
+Page 27
+release and it says grock 2 is our Frontier language model with State the art reasoning capabilities this
+includes two members of the grock family grock 2 which is a separate model so this is not the model I'm
+showing you today because grock 2 is not the model of grock 2 mini right and so grock 2 mini is what
+I've got access to and then grock 2 I believe will be released later and that'll probably be even better
+and crazier the other thing that I would say with Gro and I didn't really mention this earlier is that Gro is
+pretty quick to respond so if we go back onto grock and we'll create a new chat as you can see and
+we'll just click on one of these random things like help me write a cover letter you can see that the
+actual responses really fast so it actually responds really quickly when it comes to creating content
+that's another Pro now as we scroll down you can see how GR to Performance in terms of chat
+capabilities right so if we go down here you can see this is the model sus column R and in terms of Elo
+scores on the chatbot Arena so this is voted on by real people you can see that Gro comes in at
+number four number one is chat gp40 number two is Gemini 1.5 Pro number four is Gro right there and
+then there's a bunch of other models underneath now the other thing you can see here is you can see
+the win rate of grock 2 against competing models on chatbot Arena so for example the win rate of grock
+2 is 70% versus deep seek and yeah these are some more benchmarks so you can see exactly how
+grock 2 mini performs versus GPT 40 mini uh sorry GPT 40 turbo claw 3 Opus Gemini 1.5 llama 3 point
+and GPT 40 as well so it's not too far behind but I still don't think it's as good as chat GPT for for
+creating content and that's how you get access to it so that's pretty much it I think in terms of the whole
+thing that I wanted to show you in terms of how this works as well Jason says blim me this is just insane
+if you don't see the value Julian's given your yeah yeah something like that and Dr Z says is the content
+created with Gro unique plagiarism free that is a great question we can have a look we'll run it through
+a plagiarism Checker right now so I'm going to log into originality in the background which is one of the
+best places I can check for plagiarism I'm imagining that the content will come out highly AI generated
+but I also imagine that it will be plagurism free most of the time so if we come back to this prompt that
+we were talking about earlier and this is the document with all the notes if we come back to this prompt
+and we'll take this one right here we'll plug that into grock we'll paste it in right there and then we'll get it
+to generate some content and once it's generated that content we can run it through a plagiarism check
+on originality and see how it performs right so we'll click on detect Ai and we'll click on check plagiarism
+and from here we've got the content and it's just blasting out but again it's very much bullet pointed it's
+very much it feels AI even when I look at it right I don't even have to read it to know that this probably
+isn't great for content creat the other thing that I would say right here is that it doesn't even insert
+internal links you can see that it doesn't insert internal links unlike I instructed it too so that's something
+to bear in mind as well it may just be that Gro doesn't do very well with longer prompts and so if you
+gave it a shorter more simpler prompt it might give you a better output so we're going to wait for this
+now and we'll give it a Content scan and just see how it performs now whilst we're waiting for that we're
+ask answer Dr Z he says is there API option in grock to use it outside the platform like open AI so you
+can get access to the API if you type in Gro API SDK on Google you will see the developer platform
+right there and then you can get the API details right there but again right now until it's released this is
+purely for the older version of Gro so grock version one one right it's not for the new version so
+something to be aware of right there and you can see if we look at the plagiarism score this is I
+predicted right I was just spot on I should be Mystic Meg with a crystal ball here you can see the inside
+the plagiarism score it is 0% plagiarized so that's what I expected because I've never really seen AI
+content come out as a as plagiarized just never seems to be an issue but if we go to the AI results and
+as I predicted it's likely to be AI right 100% confidence that it is AI so if it's obvious to originality probably
+going to be obvious to Google or anywhere else you create content whether it's quality content or not I
+wouldn't say it is right if you look at the content itself I think it needs a lot of editing and when you've got
+options like claw 3.5 Sonic for free then that's probably a much better option versus creating content
+directly on Gro so yeah comes out 100% AI generated comes out 0% PL and we're going to keep going
+through some of the questions says is there a free option so there is a free option at LM Arena just go
+to LM arena. and then go to the model called sus column R right there and that's basically it so if you
+want to get access to the video notes from today including the sap all the links I've talked about Etc you
+can get that inside my free course links in the comments and description just go to SEO systems and
+then Gro Ai and go says real recognizes real AI recogniz is AI Julian is confirmed as AI I should just call
+Page 28
+myself Julian GPT on YouTube at this point I'm I'm yeah basically the amount I use AI I'm I'm 50% AI I
+believe so that's basically it now if you want to get a free SEO strategy session link is available at Julian
+gold. co.uk otherwise just check out the link in the comments in the description and you can get a free
+one to1 SEO strategy session where we'll show you how we take websites from zero to 145,000
+business per month and generate thousands of dollars in sales we can also talk about how I personally
+rank on Google how I rank on YouTube and also how I rank directly inside AI models for example like
+perplexity and other AI models like that if you want to learn how I do that book in a free SEO strategy
+session additionally on this call and this is a free call normally Consultants are charging you thousands
+of for this I'm giving it away for free but on this free call you get free SEO domination PL go the secrets
+of Link building or answer any questions you have you learn the best link building strategy through
+website you learn how to out rank your competitors with link building and you learn how to increase
+your SEO traffic based on what's working for me right and I've shown you proof that all of these
+methods I show you actually work acram says Julian gbt and passive income playground says I've
+been looking at your free course in a small percentage of the information contained I'm Blown Away by
+what you give away for free thanks very much that's what I'm talking about I'm here to help people and
+I'm glad that the content helps you right this is all about empowering you to make sure that you can
+Implement stuff and learn this stuff for free because a lot of people will charge you like thousands of
+dollars for courses like this inside that free course with have over a 100 tutorials 200 chat gbt prompts
+33 a tools getting all this stuff for free just because I want to help you and I want to empower you to to
+get more leads to get more track to get more sales using the processes word for me go says thank you
+Legend really appreciate all the value you provide happy to help too and Neil says absolute Legend
+really happy really we got so much positivity on the live stream today I really appreciate that everyone
+all right thanks very much kept it short and sweet appreciate everyone who's joined in and I will see you
+on the next one my friends byebye
+References and Recommendations: No references or recommendations found.

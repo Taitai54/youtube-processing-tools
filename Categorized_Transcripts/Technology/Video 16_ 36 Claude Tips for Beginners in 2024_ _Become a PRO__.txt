@@ -1,0 +1,962 @@
+36 Claude Tips for Beginners in 2024! (Become a PRO!)
+URL: https://www.youtube.com/watch?v=vPpb_0Ie-QU
+in this Claude tutorial I going to give you 36 tips and tricks that take you from a beginner to a Master
+within Claude now even if you've been prompting for a while and using large language models I highly
+recommend you stick around to the end because I myself have prompted for hundreds of hours alone
+perfecting my craft and there are a lot of things in this video that I share with you that I've learned over
+the years of prompting in large language models so if you're ready to get into it grab out your coffees
+get out your notepads and let's learn how to use Claude for those of you who don't know me my name
+is Drake I've been teaching artificial intelligence for a couple of years now and I have an AI foundation's
+University where it's a community a classroom a network and a live call group all in one platform this is
+the best learning experience for AI I've learned more in the past 3 months than I have in the past two
+years studying artificial intelligence alone thanks to this community and thanks to getting all of these
+people from different Industries together in one platform and talking about AI now I'll leave a link to join
+this in the description or the top end comment so if you like what you see in this video and you want to
+dive deeper into learning with us here at AI foundations highly recommend starting at the community it's
+an amazing experience you'll gain a network of people to talk about AI with and it's meant to be your
+final stop in the community we're talking about AI news all day long I mean people are posting multiple
+times per hour we have a classroom full of different courses to learn large language models AI image
+Generations Automation and more courses to to come soon we have a calendar even with a bunch of
+different live calls and we do multiple different styled calls per week we have live q&as; we have
+money-making methods with AI and of course you get the community class rooming calendar so I
+highly recommend you join if you are interested in anything artificial intelligence I'll leave a link in the
+top pend comment and the description below if you're interested in joining and without further Ado let's
+get into these 36 claw tips and tricks tip number one is to split your tasks when using Claud often times
+we send off these long prompts that are very very detailed and we can't get as much out of Claude
+when we don't split up our tasks I'm going to show you an example of what that means to split tasks
+let's say I'm dealing with this long prompt in Claude And I want to create a YouTube channel in the
+artificial intelligence space and I want Claude to help me along the way well here's my prompt it says I
+need help creating the YouTube channel in the artificial intelligent space please help me come up with
+30 catchy names and describe why each one is good also I would like 10 Channel description
+variations that are General in regards to Ai and also describe why those are good as well for each one
+and why they might work better than others lastly I would like you to put together a Content calendar
+and strategy with mock video ideas and days of the week I should be posting on now these are all
+amazing tasks for Claud to complete and each one has their purpose let me split them up real quick so
+we have our goal up top we need help creating a channel next what we want is 30 catchy names and
+we want Claude to describe why each name is is good the next thing we want is 10 Channel description
+variations and then finally we want a Content calendar and strategy with Mack video ideas these are all
+great tasks once again but when we send off this prompt Claude can only go into each one of those
+tasks so much because of its token limit and how much it can actually generate per output as you can
+see it's completed my request it has the 30 caty Channel names with describing why each one is good
+it gave me 10 Channel description variations it gave me a calendar and strategy but it's only going so in
+depth on each task because it has to think about and move on to the next task so tip number one is to
+split up each of these tasks so Claude can expend more of its output limit on that specific task so
+instead of me asking all of these questions at once maybe I should ask them one at a time and this is if
+you're trying to get detailed and good responses so I can keep my goal and then I can start a new chat
+and then I can just give it one command at a time and I can even tell it to be more detailed and go into
+spefic specific things about that task maybe instead of getting detailed about your entire project get
+super specific into one task that way it can expend its energy and its output limit into that specific task
+so now I'm just sending off this 30 catchy names prompt I still have the same goal but I'm just having it
+do one task at a time and I'm having it be super detailed on the descriptions of why each channel name
+Page 83
+might be good and attractive for viewers and once I send this off you can just see how detailed it went
+into every single name and it really helps me when it comes to making a decision for my YouTube
+channel based in the artificial intelligence Niche I mean just take a look at this one task how many
+output tokens it expended so what I've done is I've taken these two prompts and I've put them in a
+Google doc and what I want to do is compare the word count when we split a task versus when we
+don't split a task so when we didn't split a task and we wanted our 30 catchy Channel names this is how
+in-depth it went let's take a look I can go to tools and word count as you can see it gave me 334 words
+into this specific task when I sent this task off to Claude on its own it went much more in depth as you
+can see we have 1,59 words compared to 334 so this is the more in-depth explanation you're going to
+get when you start to split up your tasks and CLA tip number two is to use pictures for context you can
+do this for so many different use cases let me show you a few examples now let's say you have a otion
+database or a Google sheet where you track your sleep maybe you're using an API to do so and you're
+pulling in your sleep seconds but you want to actually convert that to a nicer format that's easier for you
+and I to understand rather than just seeing your time and seconds now this is just an example of how
+you could use a picture for context because right now we have the sleep tracking database and when
+you're creating a formula property in notion you need to type in all of this code and it sometimes get
+difficult but in this instance you could give Claude more context by providing it a picture and you can
+even draw on that picture and Circle C certain elements to show Claude what you're talking about so if I
+just grab my basic Snipping Tool here and I hit new and take a screenshot I could screenshot exactly
+what I'm talking about and I can leave some room underneath it to draw and now I could Circle
+elements that I want to talk about such as my property here maybe I can Circle the property that I want
+transformed and then I could write out the format that I want the seconds in maybe I'll just give Claude
+an example of how I want this format such as this maybe I want these seconds to be converted into to
+this right here 7 hours and 28 minutes instead of whatever these seconds are now I could save this
+image and upload it to Claude for context so now in Claude when I have a prompt I don't have to give
+as much context into what I'm speaking of in the form of text but rather as a picture so I can say help
+me create a formula in notion that converts seconds into the format shown in the image my notion
+properties are in the image as well I can even put they are circled because this is the property we have
+to use if we want the formula to work proper l so now I can just hit add content beneath here once I
+have my prompt and then I can upload my image so I can go to my notion photo hit open and now
+Claude has this it sees what's circled it sees the format I wanted in and now we can watch Claude do its
+magic and go to work using this picture as context as you can see it gave me the notion formula with
+my exact properties that I needed because I uploaded that picture and I could type it out but there's a
+lot more room for error that way so now when I go in here and I paste in my formula and hit done it
+converts all of those just as we had asked based on the image that we uploaded you could do this with
+Google Sheets you could do this with posting you could do this with literally whatever even color
+palettes maybe you like the design of a certain website what you could do is you could screenshot that
+website and say give me the code to replicate this and you don't have to really describe what it is that
+you want replicated you just have to upload the picture for further context tip number three is to upload
+website documentation for context if there's a new tool or a new app or something that goes Super
+in-depth uploading the documentation to Claude really allows it to dig into your problems and find you
+much better Solutions let me show you what I mean let's say I'm using a tool like make.com make.com
+is a tool where you can go in and you can automate certain things you have scenarios in here that you
+can run that perform one task after another after another we teach this in the AI foundations Community
+but it's really fun and at the same time it's complex and when I want to ask Claude questions about it I
+want to make sure that it knows all of the updates details about this program that I'm using you can do
+this with anything any tool that you use just go to your documentation such as this page that I have right
+here and copy everything maybe I'm working with the API so I want to go to the API documentation
+what I could do is I could copy this entire page as you can see I'm just scrolling down and copying all
+the documentation it's pages and pages of information when you ask Claude questions now about
+make or whatever tool you're getting the documentation from it's it's going to dive much further into
+detail and know everything about it especially when you get into specific things like API documentation
+it's important that Claude has upto-date information on that so you can perform tasks and ask it
+Page 84
+questions more accurately so as you can see I'm still scrolling it's been about 30 to 45 seconds now of
+just scrolling but this is going to be an amazing example to show you how well of a job Claude can do at
+actually Gathering all of this data and using it and we can actually ask questions about it so as you can
+see we finally made it to the end and I'm just going to let go of my mouse and now I'm going to hit contrl
+C you can even rightclick your documentation that you have highlighted and copy it I forgot that last
+example here but that'll be okay and then I can head back over to Claude And all I have to do now is hit
+control+v and what that's going to do is make a file for you and it's going to upload it as pasted text so
+now Claude is going to use this documentation for context and it's all 637 lines everything in the make
+API documentation that we would need to know so this is awesome it got literally everything and now
+Claude is going to be much more ready to help with our project and now that I have that in here I can
+just ask it questions about the make API documentation and the questions don't have to be about the
+API documentation but how I can use the documentation to complete a certain task in the program that
+I need to so let's just say I have a use case that I need for filtering and make.com I could ask clot a
+question about that now since it has all the documentation what is filtering and how do I use it and now
+that it has all this information it will be able to answer it much more in depth without even me having to
+mention that I'm using make.com I can send that off and it's now using the documentation provided it
+says based on the documentation provided here's an example of filtering so you can kind of
+communicate with data and documentation that's a lot harder to understand on your own with just
+pasting that documentation into CLA so this one's super important whenever you need more context
+take pictures use tip number two and use tip number three which is to upload the documentation for
+even further context context is so important that's why I wanted to touch on it early because it allows
+you to explain to Claude what your problem is in a much more efficient manner tip number four is to use
+Claude for brainstorming you can brainstorm literally anything from personal things to business tasks
+let me show you an example of that now let's say I have a bachelor party coming up and I'm the one
+who needs to be planning it well I could have Claude help me brainstorm as you can see I say help me
+brainstorm 10 unique bachelor party ideas for my brother make these ideas so he will always
+remember this day I can send it off and even if I don't want to use these ideas at the least it's inspiration
+for something I could do later down the line and you can keep on asking questions diving further into
+this as you can see it gave me 10 different ideas extreme sports day mystery Adventure survival skills
+racetrack Private Island historical reenactment zero gravity f it just keeps on going with all of these
+different ideas very cool unique ideas but how do I know that these are actually going to work work well
+I could followup prompt and ask another question I say give me a probability of success percentage
+rate for each of these ideas and then give me a top three based on the percentage of success results
+maybe I want to see can I pull this off we can use Claude to further the brainstorming process I'm going
+to send that off and now it's going to organize these in a probability of success percentage rate and it's
+going to show me okay which one of these are most likely to actually work and then it's going to give
+me top three ideas based on that previous list I could even go fur further into the brainstorming process
+don't think about this for personal things think about it for business use cases or social media posting or
+advertising SEO you can compare you can brainstorm uh I'm going to bring another prompt in here just
+to show you how you can further the brainstorming process I say based on these top three results add
+an additional idea that could compete with these ideas in the top three so I'm now having Claude add a
+completely new idea to the list that could potentially compete with these top three at the end I'm just
+going to add make this an idea we haven't yet seen I'm going to send that off and now we're going to
+get a completely new idea generated and it added in virtual reality World Tour 91% probability of
+success so that's going to take the second place spot based on these top three tip number five is to
+plan anything in Claude this can be big events for corporate things this can be small personal events
+let's just keep building on last example and plan out this bachelor party idea that we just got generated
+for my brother maybe I liked this idea that Claude generated the mystery Adventure I'm just going to
+copy that and I can start a new chat with Claude now we're going to use Claude to actually plan we did
+the brainstorming now let's use another tip and plan something with Claude I'm just going to paste that
+in there so I don't forget it and then I'm going to bring in another prompt that I created a little earlier for
+planning so I have this prompt right here and I'm just listing out some details for Claude to build off of
+I'm giving the specifics what we already have plannned so it can for one watch any spots and for two it
+Page 85
+can help me plan my day in the most efficient manner possible if you're dealing with checklist this is
+also great to help to have Claude help engineer your day so that you're getting things done in an
+efficient manner okay let's take a look at this it says I'm planning a bachelor party for my brother I'm
+laying out the environment here's the idea this is where I want to list out my idea so I can list out my
+idea I can copy this that we got generated with Claude funny enough and I can paste it in so my idea is
+the mystery Adventure I can get rid of that probability of success score and I I'll just have offering
+excitement uh unpredictability while being adaptable to various preferences and budgets and then I
+give more details I give the location of where we're doing this let's just say Phoenix Arizona the length
+of stay the number of men for this bachelor party eight including my brother ages ages is important
+everyone's 21 plus where we are sleeping airb be and Phoenix and then this is where the secret sauce
+comes in I say provide me with a full itinerary and exact time based on my idea and then I can say help
+me watch for any blind spots on this special day as well so now it's going to look out for me it's going to
+say hey you might want to look out for this or maybe the schedule might misalign with somebody's
+interest whatever it may be it'll watch for those blind spots and I'm going to send this off and get this
+entire complex day planned and it gives me the entire itinerary in a matter of seconds I don't even have
+to think about it now I can revise things in Claude I can use this schedule I can use parts of it now I
+have all these ideas and it just takes the stress out of planning those big events and it gets it down by
+the hour 12:00 p.m. 1:00 p.m. 2:30 4:30 6:30 9:12 and it gives me it for both days that I had planned in
+Phoenix gives me all sorts of activities to do on this mystery Adventure bachelor party and then it gives
+me 10 blind spots to look out for transportation reservations backup plans pacing dietary restrictions
+and it keeps on going on and down the list about things that I might not think of but they're important to
+think of because they are things that often come up during events such as this tip number six is to build
+your own tools in Claude these can be personal tools for little games with you and your friends or this
+can be professional tools like SEO tools or analytics tools you can really do it and get a base version
+built by using the claw artifacts feature and then you can furthermore ask it how to implement it into
+your website and the list goes on I mean you can really do what ever with the code that it provides you
+but building your own tools in Claw is awesome because it gives you that preview window that you can
+test your tool out essentially and later down the line we're going to learn how to publish that tool as well
+so stick around for that tip but let's get into it let's say that me and my friends are out golfing on the on
+the golf course right it's a beautiful day but we're getting the little out of hand we're not really liking our
+scores so we decide okay I want to do a random Club challenge let's do it so each shot we hit on the
+golf course we need a random Club selector that selects the club for us and that's the club we use well
+we could build a tool in claw that does just that I can just say use react and inline CSS this is important
+must use react and inline CSS Tailwind CSS Styles will not work that's just something you have to do if
+you do want to build these artifact tools that are functional and then I say use that to build a tool that
+generates a random Golf Club to use for each shot with the click of a button being specific that I want to
+click a button and generate a random Golf Club to use I say this tool with golf style branding SF fonts
+Country Club green and clean colors you can even get as fancy The Styling as you want I'll keep it
+simple for now but let's send this off and let's get this entire tool built with Claude the beautiful thing
+about doing this with Claude is it does it so quick and you can kind of bring your small ideas to life some
+of those things where it might not be out there on the market and you just want to build it quick custom
+small tool for you and your friends or something for your business you know I've built an SEO Wiz tool
+that helps me analyze my prompts and fill it with keywords uh based on my Niche you can do things like
+that but here we have this golf club selector I can hit select random club and it gives me a random Club
+to use so let's say let's say I'm teaing off now I'm on the T box and I want to hit my first shot me and all
+my friends are gathering around my laptop that I brought out on the golf course and using it with starlink
+to get this golf club selector built when we don't have Internet let's say they're all surrounding me here
+and I'm about to tea off all right I'm going to select a random club guys three iron three iron off the tea
+box not bad not bad maybe my other friend goes and we hit select random club driver perfect off the tea
+box my other friend goes six iron not so great depending on your hole but you get the point you can
+build out these little tools with Claude and actually edit them as well I'm not going to get into the editing I
+have a full video 15 use cases for Claude where I get into a little bit more on how you can edit this stuff
+but it's simple you just ask Claude for revisions now we've been learning a lot of tactics with Claude but
+Page 86
+let's get into the organization side of things tip number seven is to rename your chat logs in Claude in
+order to stay a little bit more organized you have the ability to rename things and sometimes when you
+get generating a bunch of different information it's important that you stay organized otherwise you're
+going to be searching around all of your chats just as I have in the past so make sure that you organize
+your chat logs and you can do that by renaming them and giving them specific names or you can
+organize them numerically whatever you want to do you can rename them so if I go to my recent chats
+by opening up my sidebar or by just hitting show right here on the homepage I can click into one of
+those chats let's just click into the mystery Adventure bachelor party maybe I want to rename this so it
+doesn't say mystery Adventure up front all you have to do is click on your chat at the top of your screen
+and then hit rename it's as simple as that but this is going to help with organization so maybe I could
+put 01 then I could put bachel party ideas for and then brother name maybe I just put Carter and then
+hit save now this is looking like this compared to mystery adventure and it starts with all this weird text
+um it's definitely going to help organize your chats tip number eight is to understand the different
+models that you have access to in claw some people might be using a certain model for certain tasks
+and it may not be performing as good as another model might be or maybe you need things done a little
+quicker and you want the prompts and the outputs to come out a little bit faster then you might need to
+switch your model do you want it to be better at C C might need to switch your model uh there's just
+certain things you have to keep in mind when using Cloud's models as you can see beneath your
+prompt bar we all have this model selector where you can choose between Claude 3.5 Sonet Claude 3
+Opus and Claude 3 Hau they have little descriptions underneath but you can go more in depth on
+claud's website as you can see Claude 3.5 Sonet is the most intelligent model Claude 3 Opus excels at
+writing and complex tasks while Claude 3 ha cou is the fastest model for daily tasks so if you need
+quick things without complex reasoning you probably want to do this if you want to generate some
+quick text or just something that doesn't require complex reasoning that might be your model if you're
+doing some creative writing from what I've heard Claude 3 Opus is much better at creative writing in our
+AI foundations Community people have been saying who are writing books with Claude that Opus is
+much better at creative writing and following those instructions while I know myself that Claude 3.5
+Sonet is much better at the coding if you want a more in-depth look you can go to anthropics website to
+and take a deeper look at the models and some of the upcoming models that they have which is very
+exciting to think about so as you can see 3.5 Sonet is out but they're also going to be releasing 3.5
+Opus later this year and 3.5 ha coup so very very excited for what's to come and you can kind of go and
+read a little bit more about this every single one of them have text and image input and uh text output
+with a 200,000 context window but they perform a little bit differently per model you can go down and
+look at the model names as you can see this is a very nice model comparison showing the
+improvements that 3.5 Sonet had on the market as you can see it just outperformed Opus on the
+intelligence benchmark scores and also cost less money when it comes to development and here
+there's a big list of descriptions strength and just checklist things that they go through along with costs
+and training data cut offs I'll just lightly scroll down so you can pause the screen and read which model
+is good for what but yes make sure that you understand which model you're using to see if it's the best
+one for your use case tip number nine is to make sure that you're specifying your output format in CLA
+because a lot of the time people just stick to generic text but they don't know about the special
+formatting options that come with using a large language model and when using Claude as your large
+language model I think they do the output formatting side of things very well let me show you a few
+examples so I could type out a like give me the top 10 dog breeds based on friendliness and cost and I
+can send it off and as you can see it's just going to be that generic basic text output that we are very
+used to seeing but it doesn't have to be like this now these number lists are very useful and they have
+their place but what if I wanted this in a bullet list I could say give me this in a bullet list you have to be
+very specific for what you want CU Claud can't read your mind on what you want so now it's giving it all
+this information to me within a bullet list how about a table yes you can do tables in CLA too I can say
+now a table and it doesn't stop there with the output formatting you don't just have to do a table format
+you don't just have to do a bullet list numbered list but you can also add in things like special character
+such as Bolding so I could say keep the table but bold the dollar amount so maybe I want that dollar
+amount bolded so it stands out a little bit more it can do that so now as you can see over here on the
+Page 87
+right the dollar amounts are bolded and you can do this especially when it comes to editing your work
+you can say bold the statements that you changed if you're using it for enhancing your writing so output
+formatting is something you definitely want to keep in mind what do you want what special formatting
+do you want how do you want your information presented to you be specific and keep this in mind when
+prompting in Claude tip number 10 is to follow up prompt in Claude you know a lot of people don't even
+take the time to prompt after their initial response they think that that's where they have to stop they're
+all good maybe they don't get a response they like and then they quit using large language models
+that's the unfortunate truth is a lot of people stop after the first prompt but you can use follow-up
+prompting to do three things analyzing understanding and expanding on your output I'll show you an
+example of each of those now so I could ask Claude to create me a list of the 15 most popular
+marketing strategies I could send that off and as you can see it will give me a concise list of 15 popular
+marketing strategies let's say I want to go in-depth on one of those I can ask a follow-up prompt and I
+can ask a follow-up prompt to analyze understand or expand how about we analyze first what I can say
+is create me a table view of these strategies listing the pros and cons this is going to help me analyze
+which one is best by taking a look at the pros and cons of each and if it doesn't help me come to a
+direct solution or a direct answer at the least it will broaden my view of the ups and downs of each
+strategy so I can send off this analyzing follow-up prompt and as you can see it gives me the strategy
+and then it gives me the pros over here and also the right now when you see this that's just a line break
+you can just ignore that but yes very good gives me the cons gives me the pros and this might help me
+weigh out my options when looking for a marketing strategy to use let's take a look at an understanding
+follow-up prompt how can we use a follow-up prompt to further understand a specific strategy in here
+maybe I want to learn a little bit more about referral marketing well I could use this basic understanding
+follow-up prompt now there are many different follow-up prompts for each stage analyzing
+understanding and expanding I'm just showing you one for each category but what we have here is a
+prompt to further help me understand this marketing strategy that I want to dive deeper into it says what
+are the basic principles underlying the referral marketing strategy something as simple as that I can
+send that off and this is going to help me further understand a specific strategy that I got generated this
+is an example of an understanding prompt it now gives me 10 different principles of one of those
+strategies let's do a prompt where we completely tear this apart by adding in a new Factor not tearing it
+apart but actually expanding it right so out of all 15 of these what if I add in something like an industry I
+can ask which of these strategies is most positively impacted by artificial intelligence and that's
+definitely going to help me expand on this previous knowledge I'm going to send it off and it says
+several are significantly impacted by AI but it would argue that personalization and targeted marketing
+is most positively impacted by Ai and it doesn't just tell me which category it thinks is most affected but
+it gives me 10 reasons into why it thinks that is most positively impacted by AI so maybe that's one that
+I would want to tackle because I'm expanding and I'm trying to understand okay how is this thing that's
+taking over the world right now going to affect these marketing strategies that are at the top of the list
+right now and which one's going to take the cake and be the best Dynamic content creation predictive
+analysis real-time decisioning cross Channel consistency it just gives a lot of good insight into why it
+thinks that that one might be the best for the future tip number number 11 and one of my favorite tips in
+this entire series is to analyze images this is where you can actually upload images to Claude and ask
+questions gain insight and you can get very specific into the questions you're asking about these
+images because Claude has computer vision it can see the images images have been labeled with
+certain objects it can do object identification and so much more so let me just show you an example of
+what that might look like so if you hit add content right here beneath your prompt bar you can actually
+add images I'm just going to add a picture of these flowers that I took outside of my house I did this
+actually yesterday when planning for this video it's just an image of some flowers I can ask specific
+questions to Claude such as how many flowers are bloomed in this image now from this image I think I
+can see around 23 to 25 different flowers bloomed or I think that's what Claude will say because some
+of them are hidden behind others but you can ask how many flowers are bloomed and it will give you an
+exact number on how many flowers it sees that are bloomed so I can just ask that question and send it
+off with that picture uploaded and it says I count approximately 20 to 25 fully bloomed flowers in this
+image and then it gives me more in-depth detail about what those flowers are it tells me what family it's
+Page 88
+from and describes exactly how it looks the flowers are growing in a cluster surrounded by multure
+wood chips exactly correct I can say give me an exact estimate and it says I can confidently identify 23
+fully open flowers in the image let's do another example you can also do object identification you don't
+really have to just ask questions about the image but you can have Claud identify certain objects in the
+image so I'm going to ask what type of plant is this and I'm going to upload yet another set of flowers
+outside my house um this is a very cool Plant I I really don't even know what it is so this should be
+some good insight for me too what type of plant is this maybe I want to plant more forgot what we
+bought and uh we can go in depth with Claude and have it name things for us and it says this image
+shows a lavender plant and it gives a description into why that's a lavender plant now let's do one more
+with a picture from outside keep in mind you can do this for really anything it's not just plant and object
+identification but you can do this for so many more things as I'm about to show you in next tip so now
+I'm going to upload two images and I'm going to upload images of this baby cherry tree that we just
+bought the other day let kind of buy those flowers in the yard I'm going to open that up and I just wanted
+you to keep in mind that you can upload up to five images or files so I'm uploading multiple Ang angles
+of this Quan and Cherry Tree let's see if it gets this right I'm going to send it off and it does a pretty
+good job it says based on this image it appears to be a young cherry tree several characteristics
+support this identification I mean this is just like a baby tree with very little information here and it gives
+five things into why it might be that cherry tree and it just did an amazing job tip number 12 is to use
+Claude to get styling advice now you can do this for things online online or in person it really doesn't
+matter I'm going to show you an example for both so if we hop over in Claude once again and we go to
+add content what I have is actually a picture of a website that I'm working on for AI foundations and
+maybe I want some advice I can open that up I just took a screenshot of the homepage and what
+Claude can do is it can actually give me styling advice or tell me to change certain text or elements
+around the screen to make the website more attractive so I could type in a prompt and I could say be a
+harsh critic on my website as this is important for visitors what should I improve on in regards to styling
+on my hero section I can send that off and because Claude has this picture for context as we learned
+earlier it will be able to give me styling advice and act as a Critic for my website so I can keep visitors
+on the website for longer gives me tips about the contrast my typography my button design layout
+balance responsiveness Whit space brand consistency and call the action prominence it's um just very
+harsh and that's what I wanted it to be I told it to be harsh critic and it's giv me eight things I need to
+improve based on this one picture it's giving me all of these tips that I can implement or at least if I don't
+Implement them all I have ideas on what I could Implement to make it better and I might have some
+things that catch my eye let's take an in-person example maybe in my room I have a wall that I want
+changed I'm just going to upload this picture of my room and maybe this is actually my old video
+background I used to film on if you watch my 36 tips and tricks for chat gbt video then you know that
+this is the wall that I filmed it on but let's say I'm getting sick of it and I want to change I can ask Claude
+to give me ideas based on the surrounding element so it'll be able to see the gray floor the Green
+carpet the blue bean bag the gray walls the white ceiling and everything else to able to see all that stuff
+so it can provide you with styling advice in person so I could type out a prompt and just say I'm getting
+sick of this green faux grass ball in my room based on the surroundings what may be a good option for
+an accent wall I can send that off and you can give Claude preferences that you have you can give it
+ideas but I really like just letting llms do the work and just go crazy so it's giving me all these different
+ideas wood paneling a warm natural wood accent dark paint color a deep rich color like navy blue
+acoustic panels given the musical equipment in the room so as you can see it's taking in the guitars that
+I have over here it's taking in this electronic drum set and it's saying hey maybe put some acoustic
+panels up a gallery wall textured wallpaper industrial metal it's really just giving me so many different
+ideas based on this one picture and it really depends on the picture as well if I were to upload a picture
+with a different wall it might give me different ideas based on the surroundings and what it sees it gave
+me the acoustic panels example because it saw the music equipment tip number 13 is to assign a role
+to Claude this completely changes your output in a matter of a couple of words so let me show you just
+an example real quick let's say I need help writing a birthday letter from my younger cousin Timmy it's
+his ninth birthday I can send that off right I can make it boring I can keep the message in the classic
+claw format and it's going to even open up a document for me and go crazy with it and give me what it
+Page 89
+included the tone is warm and playful what if we want the tone or the style in a different way well we
+can do that by assigning a role so if I keep this birthday letter the same and I just assign the role of a
+pirate you'll see how much it changes so I say keep the message the same but act as a pirate when
+you say act as X or fill the shoes of X whatever it may be if you're giving Claude A Persona it will fill the
+shoes of that persona it's just amazing so now I can say keep the message the same but act as a pirate
+you can pause the screen and read this now and when I send it off and it changes the message to act
+as a pirate you can pause and compare them against one another so as you can see it's saying things
+now like aoy there young Timmy mecko shiver me timbers it's your ninth birthday already blow me
+down time to be Sailing by f faster than a Clipper ship and a stiff breeze okay it's talking like a pirate
+now because we gave it that role and we assigned it that message now let's do something a little bit
+more serious this is one that I always love showcasing in my other courses but if I hit start a new chat
+let's do something a little bit more fun we can say act as an emolog an etymologist is just somebody
+who studies word origins through history so I could say act as an emolog with 10 plus years of
+experience guide me through a word origin exploring sequence with short prompts and direct actions
+for me to take I'm having it fill the shoes of a professional word origin expert an emist to be exact I can
+send that off and now it's going to act like an etymologist it's saying Welcome to our atmology
+exploration sequence I'll guide you through discovering the origins of words using short prompts and
+direct actions let's begin and then it gives me five steps I can complete choose a word you're curious
+about any word will do common or rare write down your chosen word try to guess its language of origin
+don't worry if you're not sure know any related word that comes to mind and share your words so it's
+guided me through this game and it's filling the shoes of a professional with this custom action I gave it
+to take me through a word origin exploring sequence very cool stuff so I definitely recommend you
+assign roles to whatever task you're working on to let Claude fill the shoes of that professional in that
+specific industry staying on the assigning rule side of things tip number 14 is to use new Styles and
+tones within your prompts to mix up your creative writing or to mix up your ad copy your SEO what
+whatever it may be when you can assign a style or a tone which can be bundled up into a roll but when
+you assign those things The Prompt changes drastically let me show you a few examples so here's an
+example I can say write me a window washing advertisement that will just be my main prompt I'm using
+so you can see how the style changes this is where the secret sauce comes in in the style of whatever
+you want it to be in the style of you can do professionals you can do Hollywood industry leaders
+whatever it may be you can write in that style so in for this example I'm just going to say in the style of
+Shakespeare maybe you have a Facebook ad I could even say that write me a Facebook ad for
+window washing and I can get rid of the word advertisement in the style of Shakespeare I can send that
+off says here's a Shakespearean style Facebook ad for window washing hark ye Windows clouded and
+obscure doth Mar the beauty of thy Noble home but fret not for remedy most sure awaits by the hands
+that make glass clean as foam so it's kind of talking like Shakespeare and I am big pentameter now you
+can even go the complete opposite I could say write me a window washing advertisement in the style of
+Eminem the rapper I can send that off and now it's talking like Eminem the rapper otherwise known as
+Slim Shady right it says yo listen up I got a message to deliver about a service that'll make your
+windows quiver with cleanliness so fresh it'll make you shiver we're the real deal no amateurs or
+beginners so it's going in that specific style it's very fun and it spices up your writing a lot now we've just
+been doing Styles let's try a tone now right because the tone changes the mood of the writing this kind
+of changes everything about the writing right it talks in a specific format or a specific way from
+somebody in history but we can actually just change the tone to be adjectives right what kind of tone do
+we want well I could write a window washing advertisement in a depressing tone okay I could send that
+off and then it goes in and it says in a world where everything seems clouded and unclear we offer
+temporary respite from your despair our window washing service won't fix your life but at least you'll see
+the Gloom outside with perfect clarity it's just hilarious right and you can really play into this and use
+tones and styles together and mix up your writing and make your outputs much better when using CLA
+tip number 15 is to question your data you have the ability to upload a data set whether that be a PDF
+CSV a doc an image right and you can actually question it ask Cloud questions about your data in order
+to gain further insights this can be done in a very basic level or a more advanced level let me show you
+an example so I could even ask a simple prompt like what is this dat and that could just be a question to
+Page 90
+start I could upload this data and then just get an answer for what it is even if you know what it is it's
+good to just ask to see what Claude thinks of it I'm going to send this off and it gives me a complete
+overview about what this data is it says it contains detailed information about 374 people including all of
+these different metrics one of the metrics here listed under demographic information is occupation
+maybe I want to ask a question about that I could say what are all of the occupations listed right
+because it listed occupation is one of those metrics under demographic information so I could say what
+are all the occupations that are listed and send that off and get an answer from claw that's directly
+taken from the data quickly it gives me 11 of the occupations that are listed tip number 16 is to chart
+your data whether you're doing line graphs bar graphs Scatter Plots it really doesn't matter if you have a
+data set and you want interactive charts then watch this follow along and use the techniques that I'm
+using in this prompt we can keep going within our previous chat thread where we asked what is this
+data and we uploaded a CSV of all of this sleep and lifestyle data based on certain occupations it gave
+us what the data was it was easy to question the data and just ask questions about it I asked what are
+all the occupations listed within that CSV and it gave me all of these what if I want to go deeper into that
+data set as you can see there's other things in here such as stress level blood pressure heart rate steps
+occupation age there's so many different factors so what if I want to start comparing some of those
+maybe I want to see correlation between occupation and stress level that might be interesting to see if
+there's any connection there I could make a bar graph going over the average stress level of five of
+these occupations and I can do that by typing in a prompt that says create me a bar graph using react
+and inline CSS if you're going to create graphs make sure that you're using react and inline CSS and
+you type in that prompt before you type in the requirements of your graph and then I say based on five
+of the occupations and give me the averages of their stress level make the stress level on the y- axis
+from 0 to 10 and list to five occupations in the x- axis I say make this graph pastel colored but don't use
+yellow also make a dark mode we love the dark mode let's go I'm going to send this off and this would
+be an example of charting your data in Claude and doing some light data analysis as you can see it
+gives me this using react and inline CSS the bottom is cut off here but we could fix that really quick as
+you can see the words are there if I highlight them and now we have interactive charts in Claude based
+on the data set that we uploaded in the last tip and you can go much more in depth with this I have a full
+video and actually a full course with an AI foundations a full six or seven modules just going over charts
+and how you can use them in large language models but I'll leave that video I made on claw data
+analysis in the upper right hand corner if that interests you tip number 17 is to change your appearance
+you might be stuck in light mode or dark mode and not know how to change it well you about to find out
+it's very simple stuff open up your sidebar and head down to your settings from there you can go to
+appearance and you can either change it from system so whatever your computer's on light mode sorry
+for blinding you or the coveted dark mode which Everyone is always loving nowadays love dark mode
+I'm going to keep it there so you can watch the rest of this video without straining your eyes now you
+might be thinking is that it is that all you can do with your appearance well there is something else you
+can do if you go into any one of your chat threads for example my window washing advertisements
+what you can do is you can go to these chat controls in the upper right hand corner and actually change
+your chat Styles now we're going to get into chat controls a little bit later but you can change your chat
+Styles and one of those chat Styles and the only chat style is your font you can leave it default you can
+have it match your system font so as you can see it gives it more of that aerial look or what I really like
+about Claud is they have a dyslexic friendly font built into their system so if I click that I'm sure if you
+have dyslexia this is somewhat helpful but it makes the text dyslexic friendly so very very cool tip
+number 18 is to quickly capture screenshots natively in Claude in order to give Claude further context
+into what you're working on this can be done very quickly with a feature that's baked into the prompt bar
+really like this one and I haven't even used it as much as I want to because I just discovered it I've
+always wondered what this little camera here was until I hovered over and saw captured screenshot
+this is something you can do to capture a quick screenshot of a different screen and have it
+automatically uploaded to your CLA chat so let's just say I'm on my AI Foundation YouTube channel
+over here looking at some things just to show you the power of this I could ask questions about these
+12 videos here on the homepage very very quickly if I go to Claude and I hit this capture screenshot
+button like this and I capture the tab that I want to take a picture of and hit share what that's going to do
+Page 91
+is screenshot that and automatically add it in here so now I can ask questions about this such as which
+of these videos performed the best if I send it off Claude will be able to read that screen that quickly in
+the time that I'm talking to you it'll be able to pull that information off the tab that I captured this is going
+to be great if you're working on SEO or any other projects where it involves um taking a lot of
+screenshots and it's actually going to give me the one with the most views 15 insane new use cases for
+Claude Sonet 182,000 views making it the best performing video among the shown and it's taking that
+screenshot just like that very quick very cool and I hope that helped speed up your workflow in clae a
+little bit more tip number 19 is to export your chat logs in Claude you have the ability to actually export
+all of your chats to your email so if you're somebody who likes having things backed up or you just like
+having an extra copy of something then this tip is definitely for you this one is very simple what you
+want to do is you want to head down to your claw sidebar and you want to select your profile from there
+what you can do is you can go to settings and in settings you can go to account in account you have
+the ability to export your data so what you want to do is you want to hit export data and what it's going
+to do is actually send you an email with a link that is going to expire within 24 hours so this may take a
+little bit of time as well to actually prepare the export and send it to your email but what you can do is
+you can hit export data and then up in the upper right hand corner behind my head right now it says
+export started now when I go to my email as you can see anthropic will send you a message and it says
+your data is ready for download once you hit download data it will bring you to this downloading screen
+where it says your export should begin downloading automatically which it does and all of my data has
+just downloaded in a zip file in the upper right hand corner so I could then drag that zip out on my
+desktop and I could hit open and now I have all of my conversations and the users for those
+conversations as well and it actually is going to export your conversations and the users of those
+conversations in Json so you could use another tool to extract that Json or turn that Json into text if
+that's something that's easier to work with or even a CSV so you can upload it to a Google sheet or
+something like that but that is how to export your data in Claude tip number 20 is to use Claude to
+create color palettes whether you're a designer founder CEO entrepreneur really doesn't matter we're
+always needing some color palette for something especially if you like working alone or if you do work
+alone sometimes it's hard being that creative in your business and you need to create some color
+palettes well Claude can help you do that with a single prompt let me show you how that works right
+now now I can tell Claude to create me a color palette for my water bottle brand that filters dirty water to
+clean water in 15 seconds giving it some insight into what I want a color palette created for so it can
+take inspiration and design the palette around me and it doesn't just come up with a random palette
+based on nothing this is going to help bring my brand to life I say use react and inline CSS to show this
+color palette and give me the hex codes as well I can send that off and it gives me a nice color palette
+that I could use for my brand it gives me a pure blue clean teal fresh Aqua earthy Brown and crisp white
+I can even uh edit this color palette by adding in more information about my brand I can add in this My
+slogan for the company is from muddy to miraculous clean water in 15 seconds flat does this change
+the color palette at all and then I can send that off to see if certain slogans certain things about my
+brand might influence my color palette and it looks like it added in an accent gold and changed around
+the blue a little bit you can always go to the different versions of your new code by hitting this arrow
+down at the bottom left hand corner as you can see see my pure blue actually looked like it stayed the
+same but what it did was added in that accent gold and to be honest this color palette needs some work
+because this doesn't look that great but it gives you ideas to build off of and you can say certain things
+like make it pastel and just by saying make it pastel that color palette is beautiful I could even say make
+it on a dark mode background and now we're really getting the brand built here you can just keep on
+going through these different uh variations of your color palette and just really design something nice tip
+number 21 is to create projects and Claw this is where things start really taking off and when you start
+understanding these tips and features that are to come in this video then you're going to be a CLA
+Master CLA projects are an amazing way to organize your work provide different custom instructions
+project knowledge and this is really going to get you ahead in the world of large language models
+something you need to learn in order to create a project first and foremost you have to be on the
+professional plan of Claude which it's just definitely worth it when you have access to these projects as
+a matter of fact I have two clot accounts because I want to keep using it and my token liit runs out after
+Page 92
+using Claude so much even in this video I've had to move to the second account but in order to create a
+project hover over Claude in the upper leth hand corner and go to projects very simple I've got a ton of
+these little projects in here think of these projects like folders you can name these projects give them
+descriptions you can sort them by recently created or recent activity doesn't really matter whatever way
+you want to do it but in the upper right hand corner what you're going to do is hit create project and this
+is where the organization comes in you want to give your project a name and describe what you're
+trying to achieve this is a personal project so I could name it social media news summarizer and then I
+could give it a description let's just say news articles in awesome summaries and social media post out
+that's what this project is going to be and that's what we're going to be creating over the next couple of
+tips I can hit create project and now we are in the project dashboard where we have a prompt bar on
+the left we can add content capture screenshots just like before we have organized chats within this
+project and even a project knowledge section which is going to allow us to add tons of different things to
+this in order to enhance our workflow tip number 22 is to set custom instructions now when you're
+within your projects you have the ability to do something called setting custom instructions and this is
+where you get ahead this is where you start to optimize your workflows for Speed and productivity and
+where you can really start automating tasks in Claud as you see I made this social media new
+summarizer project with the idea in mind that I want to be able to come to this workspace upload news
+articles in the links to those news articles and get get social media posts and summaries out for all of
+my accounts and then also have a link attribution system where I can attribute the content to wherever I
+got it from so I can start this process by setting custom instructions here this is how Claude should
+respond to each prompt that comes into that prompt bar when you're in this project you can do this for
+multiple other projects with different custom instructions for each that's why projects are so powerful
+you instruct Claude how to behave and respond for all of the chats within this social media news
+summarizer I can just paste in some custom instructions that I pre-created here and what I basically
+have here is I'm giving Claude a role I'm saying you're a social media expert with 10 plus years of
+experience with posting on X formerly Twitter and then I give it an objective and that objective is to
+analyze large news articles create social media posts that are curated towards my audience in the
+artificial intelligence Niche create an X post based around the Articles don't copy the actual text
+paraphrase it so we don't plagiarize at the end of every post take the link I uploaded with the article and
+put it at the bottom and then I give it a personality trait with a tone and I give it a custom output format to
+use I say Twitter post read more about and then I have a custom topic of post section here in Brackets
+and then I tell it to provide the link down below I can hit save instructions and now instead of typing out
+a prompt this large every single time in each one of my chats when I want an X poost I just have it set
+aside in my custom instructions in the background working for me so for example seeing these custom
+instructions used in action I could come in here and I could just copy this entire article I could paste in
+the article I could say here is the article and I could paste that in just like that and then I could say here
+is the link to the article so that I can provide content attribution to my summary and I can just copy the
+link right here and paste it in and now I can send that off and it's going to use my exact output
+formatting that I set up in the custom instructions it's going to take in that profession in that role that it
+has and it's going to curate an X poost for me so as you can see it gives me an actual Twitter post that I
+can use right here so I could copy this and then it even provides the link where I got that information
+from so I'm not stealing anybody's info very cool how it added emojis and just gave me a nice Twitter
+post That's The Power of custom instructions they're custom instructions for how you want Claude to
+respond every single time specialized output formatting custom personality four different projects you
+name it the possibilities are endless when you start utilizing custom instructions I have a full tutorial
+going over that if you really want to learn how to use that I'll put that in the upper right hand corner but
+this is something you have to understand and start using within your Cloud toolkit tip number 23 is to
+use project knowledge when you're inside one of your projects this adds a whole another layer to the
+game if I go back to my social media news summarizer here and I hit add content above the custom
+instructions here I have two options I can add text content or I can upload from device for now I'm just
+going to hit upload from device and what I'm going going to do is upload a Twitter posting guide for this
+guide I have some example Twitter posts for how I want Claude in this case to create Twitter post so if I
+click into this you can see that I just have a bunch of different Twitter posts in here going over how I
+Page 93
+want those Twitter posts created maybe these are Twitter posts that worked well for me in the past so
+now when I prompt in Claude I can actually use this project knowledge to my advantage I can paste in
+the link to that article that we used earlier and then I can actually paste in the article itself right here I
+can just paste it in and it's going to use my custom instructions but now it has project knowledge to
+reference as well so down here I could say create the Twitter post using the styling from the and then I
+can just say Twitter posting guide because it will be able to reference that in the knowledge database
+and I can just put it in quotes right there so now it's going to create a post in the style of the posts that I
+uploaded in my project knowledge section you could upload so many different things here like your
+social Med media goals your audience numbers your demographic in order to get really tailored down
+you have a 200,000 context window equivalent to a 500 page book I've uploaded this 41 lines and have
+used 1% of my data and that's not even at scale if I uploaded more it still would probably be a 1% but
+I'm going to send this off and we're going to watch how it uses the Twitter posting guide in order to
+create a nice Post in that style so as you can see it uses the breaking emojis and does it in that exact
+style that I had listed let me just compare the two using the posting guide without using the posting
+guide I'm going to copy this and paste it in a doc as you can see this is what it looks like using the
+Twitter guide the posting guide that I provided and if we go back to our original chat here's what it
+looked like beforehand I'm going to copy and paste so this is without the Twitter guide and this is with it
+now I need to tell it to actually put the link at the bottom so that I'm not stealing anybody's information
+but other than that it did an amazing job on following this guide and this is a lot more engaging in my
+opinion than this so that's an example of how you might use project knowledge and you can go super
+Advanced with this I've had people in my AI foundations Community upload entire books to their project
+knowledge in order to reference and ask questions about and I've even done that with other
+applications tip number 24 is to create workflow shortcuts now I am going to stay in the projects feature
+because it's the most powerful feature in Claude in my opinion at the moment and we are going to
+update our custom instructions that we created a couple of tips ago and we are going to add shortcuts
+to our project so that when we type in certain commands it completely skips out on the custom
+instructions and does something else so I'm just going to hit edit on my custom instructions and scroll
+all the way down to the bottom and beneath this what I'm going to do is I am going to provide a
+shortcuts list so I'm just going to paste that in I created this earlier it says shortcuts for this project and
+then here I say I'm going to provide you with shortcuts now this is awesome watch it says shortcuts
+override previous instructions if you ever see any of these unique Standalone character combinations
+you are to follow the short shortcut instructions and I can say only okay and I have just some shortcuts
+in here so I have tldr which stands for too long didn't read and then I say when you see this command
+before or after an article you are to skip creating the social media post and give me a general summary
+regarding the content in the article very cool maybe I just want to use this as a Content summarizer LP
+whenever I say that you were to create a LinkedIn post instead of a Twitter post things just got
+interesting and then finally TM Jay this is a fun one tell me a joke about artificial intelligence whenever
+this shortcut arises I can just use that one first to show you that it will overcome the previous
+instructions and use your shortcuts I can hit save instructions and I can just type in TM AJ and when I
+send that off it's going to say here's an AI themed joke for you why don't AI models ever get sick
+because they always follow the algorithmic oath don't know what that means let me know if you know
+down in the comments but now I could upload that same article that we've been using here off of AI
+news's website of course with the link because I'm not taking credit for this post but once I have the link
+copied I've got the article copied I could just paste it in here and then I could just say at the very bottom
+LP so now it's going to create a LinkedIn post instead of a Twitter post uh because I used LP LinkedIn
+post it's going to format it completely differently it's going to be a little bit longer provides the link for
+attribution beautiful and yeah this is great used my shortcut for LP and I could do the same thing for tldr
+if I send off that shortcut it will give me a general summary just as I asked it and not create any post so
+that's how you would do shortcuts in your project workflow in order to add little custom things that
+maybe only you know about and maybe they're just Secrets within your project and this is very good for
+a project that you want to be like a Swiss army knife you want it to do multiple different things but you
+want to maintain one central theme tip number 25 is to combine all the features of projects into one use
+project knowledge with custom instructions use shortcuts with project knowledge for custom
+Page 94
+instructions there are so many different things you can do and this is going to be the last tip on projects
+I promise but I want to dive in and show you what I'm talking about I want to upload some more project
+knowledge and then show you a visualization of how custom you could get with this just to open your
+eyes to the possibilities when using Claude because you have such a high context limit that it would be
+a shame not to use it so I'm going to first add more content to my project knowledge and upload that
+from the device I'm going to upload a LinkedIn posting guide and then instead of telling it in my prompt
+to use the Twitter posting guide or to use the LinkedIn posting guide that's something repetitive that I
+could upload to custom instructions so now I want you to reframe your brain I want you to use custom
+instructions in order to reference project knowledge because you can call out certain items in your
+project knowledge space with your custom instructions at a certain point so you can say after after I
+upload an article use the LinkedIn posting guide or use the Twitter posting guide to do this uh you can
+reference you can cross reference and the outputs are endless when you start diving into this so I have
+my LinkedIn posting guide here with some LinkedIn post uploaded that I really liked and what I can do
+is I can edit my custom instructions and under the objective I could add something down here that says
+use the Twitter posting guide and model the post from those posts so now I don't have to put that in my
+prompt something I'm cutting out of that process just to stop the repetitiveness of it same for the
+LinkedIn posting I could go down to the bottom of my constructions for my shortcuts and I could add
+this use the LinkedIn posting guide and model the post after that whenever I use the shortcut LP after
+an article very cool I can hit save instructions now and now it's going to actually use custom instructions
+and reference the project Knowledge from those custom instructions so that I don't have to reference it
+from The Prompt itself but I can just do as minimal prompting as possible set up in the back end once
+have all the referencing I could even have further instructions further custom instructions in these PDFs
+and in this project knowledge that I reference within the custom instructions you it's like Inception you
+go further and further into this process now I just wanted to show you this this entire box just look at it
+as a Claud project okay we have our different custom instructions in here and within our custom
+instructions we have certain shortcuts here's our project knowledge section right here in the middle we
+have PDFs and csvs all of that fun stuff and then we have a bunch of different outputs that we could get
+by combining different shortcuts with different things in our project knowledge section so this section
+right here is actually what you're seeing right here it's the project knowledge the first section is the
+custom instructions so the custom instructions right here is like this purple box on the left once you start
+combining different shortcuts in your custom instructions with different PDFs you get much different
+outputs so maybe in shortcut one of my custom instructions I tell it to reference pdf1 but I also tell it to
+reference PDF 1 and PDF 3 down here that output after referencing PDF 1 and PDF 3 could be any
+one of these maybe it's that output right but maybe in shortcut two I also want to reference PDF 1 but I
+tell it not to reference PDF 3 but CSV 1 that's going to be a completely different output because I'm
+referencing two different things with a different shortcut even though I'm referencing one of the same in
+each right you have to get creative with your combinations and think of Claud projects in this manner
+because your shortcuts can reference different project knowledge or the same and each shortcut can
+do a different thing you want your base custom instructions like profession role goal and all of that good
+stuff but you want to keep in mind with the shortcuts how you can combine these things maybe in
+shortcut three I want it referencing every single thing in Project knowledge to arrive at one single
+answer right get creative with it it cross reference things each shortcut can have its own purpose maybe
+I want one only going to PDF 3 maybe I want one only going to csv1 those outputs are all going to be
+so different from each other because they're referencing multiple different things so keep this visual in
+mind when you're using Claude projects it's one of the most important things in Claude that's why I
+wanted to map it out for you tip number 26 is to create visualizations in CLA this can be for light things
+light and simple things or more complex things this depends on how much you want to actually prompt
+to figure out those complex items I have a very basic example that I really wanted to show you and it's
+going to be done in one prompt so let's say I want to visualize for myself or other people the concept of
+the water cycle evaporation condensation and precipitation what I could do is I could give just a basic
+project to Claude for everything that I want out of this visualization or this animation that I want created
+using uh a couple of elements like act SVG and inline CSS I could say create an animated visualization
+of and then you can copy this prompt too right you don't have to just do the exact same thing that I do
+Page 95
+you can make your own visualizations but I said of the basic water cycle okay this is a dynamic factor
+that is going to be updated based on your preference and your thing that you want visualized but the
+first part create an animated visualization of keep that the same and also keep the second part the
+same using react SVG which is going to allow you to create images to animate and inline CSS okay
+you want to keep that part of the prompt if you're doing these animated visualizations and then you can
+just get into your project details and just describe to Claude a little bit more what you want out of this
+project so I say focus on the three main processes and then again evaporation condensation
+precipitation the animation should look like and then it just goes into what I want the animation to look
+like now you may be thinking is this going to work well let's see and find out sometimes it needs revision
+but a lot of the time it will do it on the first take so I'm going to send off this prompt and we are going to
+see what Claude does Claude is going to be using the artifacts feature as we've seen from previous tips
+in order to accomplish this and we may need to edit it just a little bit we may not need to that's the cool
+thing about Claude is you have creative control so as we're seeing right now is evaporation the rain
+going into the clouds it's animating that for us then we have condensation which I believe is the rain
+collection of the cloud then we have precipitation so it's just showing that entire process in a nice cute
+animation and it's just going to Loop through that I can even say make the condensation stage more
+visually appealing and add lightning flashes during precipitation get creative with it I can send it off
+sometimes these edits work sometimes they don't it's just a very fickle thing that you have to play with
+right now but it's amazing at how quick it can do this and I highly recommend you dive in and start
+creating some of these visualizations so let's take a look at how it's done after it gets done generating
+this code we have the evaporation process very similar let's see how it changed condensation if it did at
+all so condensation it has it in the clouds now blinking very cool added some more to that let's see if it
+added the lightning during precipitation yeah that's very cool so it did add that little flash of lightning
+during precipitation so you can edit those things mess around with them and really get this how you
+want it and you have the preview over here and you have the code version of it if you want to
+implement it elsewhere tip number 27 is to publish your artifacts so we just created that what if we want
+to publish it and share it to people and so they can have the ability to remix it and make their own
+version of it or just so you can show a diagram to co-workers colleagues or whatever it may be this
+doesn't just have to be for visualizations but it can be for interactive PDF dashboards data that you got
+cleaned data that you visualized using Claude it can be for literally whatever so it's very simple but a lot
+of people don't see this feature they miss out so that's the little publish button down in the right hand
+corner right now your artifact is unpublished and only you have access but by publishing it you can
+make it accessible to anyone on the internet and the chat will remain private it but the actual artifact you
+created itself will not and uh make sure it doesn't include any personal or confidential information
+obviously you can hit publish and copy link now I can actually view this public on claude's site so I can
+hit this link and I'll be able to view a public version of this animation I can even zoom in on it if I want to
+view it a little bit uh brighter but this was the animation that we made in last tip if you did miss out on
+that um if you do have an artifact use this exact same method for publishing you even have an option to
+go full full screen mode and you also have an option to remix this artifact into um add your own
+variations of it claud's going to suggest three ways to remix it automatically just a little bonus tip I'll
+throw in here for the remixing when you hit that remix button it'll actually change around the artifact that
+you hit remix on tip number 28 is to use problem solving methods in claw you have the ability to run
+through different problem solving paradigms in order to find a unique solution to the problem that you're
+dealing with or maybe not even unique solution but just a solution to the problem in a unique fun format
+and this is going to really open your eyes and open the doors to many different solutions so let me
+show you how I go about that now now I have these 20 custom instructions for problem solving
+paradigms and I'm just going to show you how I would use one of these I'm going to use the five wise
+analysis and this is basically just a problem solving Paradigm that is not anything original that I created
+but I cramped it into some custom instructions so that I could allow large language models to solve my
+problems in a unique way this is an attempt to peel back the layers of symptoms to uncover the root
+cause of a problem by asking why five times to whatever question I have so if I have a problem that I'm
+dealing with all the large language model is going to do is ask me why and then give me an analysis of
+why I am doing what I'm doing right it's going to peel back the layers and it's going to uncover the root
+Page 96
+cause of my problem so I've just copied that problem solving Paradigm and I'm just going to paste it into
+Claud basically it says when I begin five wise analysis um ask me to clearly Define the problem we're
+facing and then I have a stepbystep structure that I want Claude to walk through in order to help me
+solve this problem and I can fix all of these uh red lines here got a little weird pasting it in from the
+Google Doc and then I can send it off and so it says when I invoke begin five wise analysis it'll start
+guiding me through that so I'm just going to invoke it by saying begin five wise analysis now and it's
+going to start walking me through my problem so State the problem to start our analysis to find the
+problem you're facing and there's so many different problem solving paradigms out there in that list I
+have like 20 that I've been using uh and that I have available so very cool stuff uh just so you know
+those problem solving paradigms are available within the AI foundations community and I can just walk
+through this Paradigm what problem are you trying to solve and then I can just go through my problem
+that I want solved I could say I want to eat a cheeseburger but I'm scared I'll gain weight I can send it off
+why are you scared that eating a cheeseburger will make you gain weight and it's going to keep asking
+me why it's going to ask me why five different times and it helps really peel back the layers so it's
+asking me why I'm scared and I can just say because I know the ingredients aren't good for me I can
+send it off and it's going to dig further in why do you think the ingredients and the cheeseburger aren't
+good for you because I've read the nutrition label okay and this works better for deeper problems like
+when you actually need to find a solution and you're not messing around like I am but it says why does
+the information on the nutrition label concern you what specific aspects of the nutritional content are
+you worried about it's asking me questions diving into the root cause of my issue and I could keep
+going and then at the end it gives me an analysis review of the overall cause of my problem it's a very
+fun way to solve things or just to get further insight into something that you're dealing with and there's
+again many different problem solving paradigms highly recommend you use them when you're using
+Claude tip number 29 is to understand your chat controls now we went over a little bit of the chat
+controls earlier when we were diving into chat Styles but that fell under more of the appearance
+category so what I want to show you now is different ways that you can actually favorite chats and see
+all the knowledge that you've used within your chats and a little bit better of a window than trying to
+scroll up your PR and figure out where everything was missing and so on so I can just open up some of
+my recent chats and I could go to this animated water cycle for instance and your chat controls are in
+the upper right hand corner now I'm adding Star Chat into the uh chat controls here because you have
+the ability to Star a chat and anytime you star that chat in your sidebar it's going to appear at the top
+within the starred section so if you have a chat you like coming back to or you have a big project you're
+working on and you don't want to lose it because you're asking Claud so many different questions you
+can star it and keep it over there in the start section just fine next uh if you open up your chat controls in
+the upper right hand corner you can see a couple of things you can learn more about what model uh
+you are using right now and also it's going to keep all of your artifacts and all of your content that you
+add in your chat thread and a nice organized list so if you ever need to come back and view that this is
+a very good way to do it you can click on things and it just organizes it like that very nicely for you in the
+chat control section something that is essential to understand when you using Claude tip number 30 is
+to create interactive PDF dashboards in Claude this is amazing because it allows you to get a
+workspace for yourself on any PDF and it allows you to quiz yourself test yourself and see all of your
+information in a much more visually appealing way when dealing with PDF items so I'm going to show
+you how to do that this tip is loved by so many and honestly would definitely make my top three tips for
+Claud so definitely pay attention and use this for your workflow so I've just uploaded an entire white
+paper PDF over 40 pages long on multimodal Chain of Thought prompting this is by a bunch of different
+people an actual white paper huge PDF with a ton of information I mean I am just scrolling and scrolling
+and scrolling PDFs super boring to learn from that's why this method is going to help you if you have
+large PDFs you're using this for school research whatever it may be create an interactive PDF
+dashboard out of it using react and inline CSS let me show you how to do that I can say use react and
+inline CSS to create an interactive dashboard based on the information in this PDF add visual appeal
+and of course we got to make a dark mode so that's what we're doing I'm going to send this off and it
+says certainly I'll create an interactive dashboard from PDF using react and inline CSS with dark mode
+theme and this is just going to be epic and I'm actually glad this happened because this happens a lot
+Page 97
+in Claude when you're trying to generate artifacts if you ever good an error code just copy it in and
+paste it in your prompt bar and send it off and uh it should correct itself more times than it doesn't as
+you can see it just generates this nice dashboard for us on everything that it has to offer in the PDF we
+have key points performance comparison from the model and the prompting techniques used in the
+PDF and we even have a little tab data set down here going over model architecture and we can click
+around like it's almost a website and it's just such an interactive feel for this PDF that makes it fun to
+learn and I can add things like a quiz section or graphs I can just talk very basic add a 10 question quiz
+section to test my knowledge on the information in this PDF and also a relevant interactive graph or two
+I can send that off and it's going to keep the same structure but just add the things that I want to the
+code and it's just ripping through this it's generating everything so quickly keep in mind it's generating
+all this from the information in the PDF that we uploaded it looks like it's done now and it looks like it's
+definitely added a few different items so it's added this button for show bar chart when I hit that it kind of
+messes up so we definitely need some tweet in there but what it has added is this button to start a quiz
+when I hit start quiz it gives me a 10 question quiz I think that's what it's going to do uh for this PDF so it
+asks me a question and gives me a multiple choice I can hit next and then I can kind of just go through
+here and just answer all the questions that it has to ask uh I'm not sure if I'm getting these right but I'm
+just kind of guessing as I go and it says quiz completed your score two out of 10 and then I can hit
+retake quiz start quiz and then go for it again so it gives me a score gives me a knowledge quiz based
+on information so just totally an interactive experience that can be edited tip number 31 is to generate
+checklists in Claude this can be generating checklist for future events or revising current checklists you
+have to have Claude engineer your day in the most specific way possible one way I like generating
+checklist is by taking messy bits of text sent to me by clients sponsors whatever it may be one thing I
+like to do mostly when generating checklist with Claude is to take messy emails or messy bits of
+information where people want me to do something but they can't get their point across and give me a
+step-by-step list I like to paste that in Claude and then have Claude give me a step-by-step list based
+on the paragraphs of information from an email from a project whatever it may be let me show you a
+quick example so let's say I have a message from my boss let's say I'm struggling at work and he wants
+me to catch up on a few things well Carter here sent me an email let's just say this is an arbitrary email
+this didn't actually happen but it's just it's a big jumbled mess I know you all get these emails too where
+people can't get their point across they have so many different things they want you to do so this is how
+the email kind of goes throughout the entire email so I was going to go over some stuff and realized
+what we need to do oh wait first did you see that email from the marketing team they're saying the
+channel analytics are showing a weird dip might need you to look into that but more importantly we
+need to get the next few video scripts done ASAP there's no way we can miss another deadline oh I
+almost forgot can you make sure and it just kind of keeps going in this very messy format hard to
+capture all your tasks when a message is written this way so I could just say generate me a checklist
+based on the contents of this email and I can spell checklist right since that's this tip and then I can
+send it off and from all of this text where it's just going over so many different things Claud will generate
+me a nice checklist that I can use for everything that needed done in that email and as you can see this
+paragraph doesn't look like it would hold this many tasks but it does and it would be very easy to miss
+something so generate checklist with Claude it'll help make you more efficient and productive and help
+engineer your life in the right direction tip number 32 is a very basic tip use natural language a lot of the
+times we get caught up in trying to talk to this computer talk to this AI system like an AI system we try to
+be too proper but you can really use things like abbreviations you can spell words wrong again you
+don't have to be nice uh I I recommend maybe not not being nice but you don't have to say things like
+please just tell it what you want in a very natural humanlike way don't worry about capitalization spelling
+even sometimes can go poor grammar it's fine that's all the data that was trained on was human-like
+data so it wants you to respond and talk to it like a human as well because that's when it's actually
+working in its best environment because it was trained on human data so when you're asking questions
+like a robot that's not necessar neily the data was trained on it responds more accurately and better to
+humanik conversation and dialogue so use natural language at all times because that's the data the
+models we're trained on tip number 33 is to use generated knowledge now this was a big mindset shift
+for me when I figured this out because it seemed very simple but you can really start diving in and
+Page 98
+utilizing this in more ways than one let me show you a quick example so you can wrap your head
+around this one I could type in something very basic like create me 10 facts about the Roman Empire
+and send it off and then it gives me 10 facts about the Roman Empire but the cool part is is we don't
+just have to go use this information but we could add on to it right and we could use this newly
+generated knowledge to create something else new so now I could ask Claude to use these 10 facts to
+create an engaging research summary for my school assignment and how it ties into history so I'm
+generating 10 facts and then I'm using that for another project in the same chat thread this is called
+using generated knowledge a very important basic technique to understand when using any large
+language model for that matter so I can send that off and now it's going to use these 10 facts to create
+me a good research summary and I love how it's just diving into every single one of them very cool and
+now we have a research summary built based on the generated Knowledge from the previous prompt
+tip number 34 is to enhance your writing with Claude A lot of the times we get caught up in generating
+new information and we forget to realize that Claude is here to help us and be our assistant for
+information we already have presented out there to the public this is one of the best ways to use Claw
+is for writing revision and enhancement and I highly recommend you start implementing this in your
+workflows because it's just so powerful and it takes a piece of you it's not completely AI generated but it
+takes something from your mind and just makes it better so let's get into it first I could use a previous tip
+that we just learned using generated knowledge and I could start off by asking Claude what are the
+best keywords for the artificial intelligence Niche give me eight eight kind of a random number but
+nobody uses it so let's go with it and it gives me those eight different strong keywords next I could
+actually use these keywords to enhance my writing that I already have so let's just say I want to quickly
+capture a screenshot of this screen and I want to enhance my hero section copy based on my website I
+could go down here to this little camera and capture a screenshot and I could capture that entire page
+that I just showed you by hitting share and now added that file to my media here in Claude and it has
+my heading and it has a description for that as well very cool so now I can enhance my writing by using
+this generated knowledge and writing that I already have so I could say this enhance my hero section
+copy for my website dealing with artificial intelligence and add these keywords if possible to make my
+work more SEO into keyword Rich so I wanted to use these words if possible because I'm an artificial
+intelligence website I'm using it to enhance my existing writing this has already worked but maybe I just
+want to enhance it a little bit and add to it to see how it works with different keywords and SEO heavy
+topics in my artificial intelligence space very cool right I can send that off and I'm actually using three
+different claw tips in this uh tip right here I'm using generated knowledge I'm using that capture
+screenshot button and the enhanced writing technique and it gives me this right here and I could even
+say bold the changes so I can see what it changed so now as you can see all the changes are in bold
+and all the non- changes are in non-bold right so it bolds what it changed and added and it keeps the
+same what it didn't add so added this entire bottom paragraph here that would be an example of
+enhancing your writing and actually using that bold the changes technique to see where exactly it
+enhanced your writing tip number 35 is to analyze call transcripts yes analyze your call transcripts with
+Claude I've been doing it with our AI foundations Community whenever we have a live call I throw it in
+Claude And I get insights I actually have an entire project for that so that I can go over each call what
+we did wrong what we could improve on maybe what questions we didn't answer in entirely and I could
+touch up on those or I could get back to those people as soon as possible but we live in a digital age
+where we're on Zoom calls we're on Google meets we're doing all of this every single day and with
+those calls comes transcripts right and we can actually upload those transcripts to Claude whether
+you're just having a personal meeting with your business partner or a big group corporate meeting with
+your entire company and we can gain insights from those calls and further remember what we need to
+do if there were any action oriented items if there's anything that we need to take away from the call we
+can remember it all so let's do it with Claude I'm going to go to my screen and I'm just going to hit add
+content and I'm just going to upload these autogenerated captions from one of our Zoom transcripts I'm
+going to hit open and now as you can see it's 6,400 lines of an entire call in our AI foundations group
+I'm just going to keep scrolling to show you how long this is It's Over 6,400 lines and I'm not even a
+quarter of the way down yet so I can ask Claude questions about these call transcripts I can say what
+was this call about it says this call was about integrating AI into automations and workflows and then it
+Page 99
+gives me all of the main topics and even includes names in there for people that we helped says Drake
+demonstrated an object detection system built using Claude funny enough I did in this and it was
+awesome Carter showed how to set up automations and make integrating tools like air table chat gbt
+email Kevin's idea for automating client intake forms and emails Stacy's brainstorming automation it's
+going over all these people and all the projects and everything that happened in the call based on the
+transcript I could even ask a question like this to put Claude to the test list all the people you can from
+this call and a quote from each one I can send that off it says here's a list of people mentioned in the
+call along with a quote from each now we had over 25 people in the call but I guess not every single
+one of them talked and uh I know it missed some people but Drake I personally believe that
+automations they've gotten much more powerful and also a lot more popular Carter I'm using um
+Claude 3.5 to do all the coding very good Carter David um sorry if I missed this detail but but is it able
+are you able to upload a live link and it just it's so accurate with these call transcripts so highly
+recommend you get your calls analyzed and Claud ask questions for further insight and further
+understanding tip number 36 is to not become too attached to Claud now I made this first mistake when
+I got involved with chat GPT I failed to see the powers of all the other large language models I would
+completely block them out because I would only use chat gbt I wouldn't be here making this video
+sharing all of these cool tips if I stayed too attached to one large language model and sometimes you
+work with one large language model much better than others and it just supports your use cases a little
+bit more but there's a multitude of different models you can connect with each other especially when
+you start getting into things like make.com and you start combining different model agents and maybe
+you have the perplexity large language model do your research for you on the internet you have chat
+GPT doing some data analysis for you while you have claw doing the coding for you you can really start
+combining these models to do something special and that's what we really teach in our AI foundations
+Community is how to not only combine large language models but how to combine any models in
+general whether it's AI image generation Audio models music models video models it really doesn't
+matter that's what the AI foundations Community is all about is just showing you how to use these tools
+Al together like if we go in the classroom here that's what we're doing we have large language model
+Mastery notice how it's not claw Mastery or chat gbt Mastery even though I do have the chat gbt
+Mastery we went more Broad and just learned how to master large language models in general we took
+it from the basics we even have ai image generation we're about mastering all the models and that's
+what's helped me grow so much over these three months and expand my knowledge much more is
+when you don't become too connected to one tool you realize what's out there you recognize their
+strengths and their weaknesses and then you move on but that's all I have for these 36 claw tips and
+tricks again as I was just showing you we do have the AI foundations Community if you like the style of
+learning you like the energy you want to be a part of a community of AI enthusiasts you want your final
+stop for artificial intelligence highly recommend joining the AI foundations Community we're doing much
+more of this in the group we're doing multiple live calls per week we're going super in-depth multiple
+courses a network of AI Pros sharing so many different things so many different members from all
+around the world and it's an amazing experience you will not regret it highly recommend you join but
+with that being said if you don't want to join perfectly fine I've got plenty of free content on here on
+YouTube that you can just go and enjoy but sub subscribe and like this video if you did enjoy it and
+please let me know your feedback in the comments what tips did I miss what tips were you hoping to
+see is there anything you want me to make specialized videos for all this is great insight for the AI
+foundations's Channel again highly appreciate you for watching this video and sticking it out to the end
+if you are still here you are a trooper congratulations I hope that this helps you master Claud and I hope
+you can use this as a reference for your future all right I'll see you in the next video
+References and Recommendations: No references or recommendations found.

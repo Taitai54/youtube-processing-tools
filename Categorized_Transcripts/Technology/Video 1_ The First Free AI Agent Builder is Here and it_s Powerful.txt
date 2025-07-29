@@ -1,0 +1,104 @@
+The First Free AI Agent Builder is Here and it's Powerful
+URL: https://www.youtube.com/watch?v=oE2tjGBvsF4
+there's a brand new AI agent Builder where you could build custom AI agents with very specific set of
+instructions completely for free and I want to show you exactly how to use it in this video if you come to
+this website right here chat. mol. mistol is a large language model is by a French startup and is free to
+use this chatbot is free to use and it's powered by a large language model right now called mistro Larch
+2 that's one of the models they have they have other models but this is the best one available right now
+what they just released is this option right here agents so if you click over here it brings you to this page
+where you could create yourself custom agents and these agents could be powered by different AI
+models that mistol has so again mistol large 2 is one of them now what are these agents exactly right
+now in the world of AI we have two very popular AI agent Builders one is called custom gpts so if you
+go to chat GPT this is one that I've built myself in order to build them inside of chat GPT you need a
+paid version of chat GPT for $20 a month and you could build as many custom agents or custom gpts
+as you want so this one I'll show you in a second we'll use for this video the other option you have is
+from cloud so cloud. a another chatbot and here you could also build these things called projects so
+with projects you could again build something that's very specific and with its own set of instructions
+these are really designed for very specific tasks that's why they're called AI agents that's what they call
+them in mistol and this is a third version of that so you have an option I've made ton of videos
+comparing custom gpts and the reason why I make many videos about that is because I think these AI
+agents or custom gpts are the best parts right now in the world of AI I use them more than any other
+tool and I've literally test that out about a thousand different AI tools so let's go ahead and finish building
+this agent again pick your model I recommend large 2 this temperature option has been around if
+you've ever done anything more customized but the higher you go this goes all the way to one or you
+could bring it all the way to zero and typically somewhere in the middle is where you want to be now the
+closer to zero you go the less random your output is going to be and then if you go all the way towards
+one it's going to be a lot random a lot more creative so you could just hover over lower value makes
+results more predictable so the fact that we have this slider this temperature slider here to control
+Randomness something we don't have anywhere else unless it's more customized things that are more
+advanced for developers then you have your instructions where you could type in a system prompt so a
+system prompt is something that you could give to chat GPT for example at the account level it's a
+custom instruction for the specific bot that I'm building this AI agent is going to have a very specific
+system prompt when you're using chat GPT if you're just regularly using it you don't really know know
+how they prompted to talk to you in a specific way here when you design these little agents you could
+get each one to be different than another one not just like a broad chat GPT or broad mistol so I buil
+this custom GPT and it's available for free because you could build custom GPT and share it with
+people without a paid version they could use it completely free so here you could type in a basic prompt
+and I'll link this in the description and it will generate a custom instruction that I could paste over there
+and I'll type in something simple so my instruction is turn a single sentence into a LinkedIn post and this
+is going to create a much more interesting prompt you are an AI model designed to transform a single
+sentence into a professional LinkedIn post so this is creating the prompt this is your little prompt
+designer here I'll go ahead and copy this right here and let's go ahead and back to our agent Builder
+and type in our system prompt over here which by the way is optional but the point of these is that you
+give it a system prompt so it follows your very specific set of instructions talks to you in a certain way
+you could give it a tone you could give it a writing style you could give it a reading level all that could be
+part of your custom instructions again I've made ton of videos on this channel about how custom
+instructions work now this is one of my favorite prompting techniques and it's available here as an
+option it's called fuse shot prompting so with fuse shot prompting you could give the model an example
+so you could tell that hey when someone puts this input this is the ideal output that I want so if you click
+this it says what's the input and what's the output that you desire so here's an example so this agent the
+purpose of this agent is I could give it a simple one- sentence LinkedIn post and it will give me
+Page 1
+something far more detailed so that's what the instructions I give it so I need to give it an example for
+input so let's say if a post I was going to make just said AI education is crucial for preparing students for
+tomorrow's jobs H it's okay right I wouldn't probably post that on LinkedIn so what would the output look
+like if I was giving this chatbot an example it's learning from a very specific example and you could give
+it more than one so I could give it something like this that's far more detailed here let me go ahead and
+extend this out a bit AI is becoming a big part of our world and teaching it well is the key for getting
+students ready for the future careers and there's a bunch more here right and all I have to do is if I give
+it an example of the input and write the output that's a lot more detailed is more customized to my
+writing style it's going to use that as it set of instructions to give us an answer and I usually like to give it
+one or two examples like this when I have this options for demonstration before when I was teaching
+Claude in the project settings or if I was building custom gpts I will still give it this input and output
+example because few shot prompting is a great way to give instructions to these chat Bots but I was
+doing that as part of the system prompt now it has a different section for it inside of this mistal agent
+Builder and that's pretty much all I have to do and then I could go ahead and name this agent on top
+LinkedIn post generator and I could press deploy right here and for my deployment it lets you do it
+through the API again that's for developers but in our case we're just going to put Le chat this is their
+chat bot over here so I'm going to deploy it there now let me just point out the pricing here because if
+you deploy your agent if you just press deploy here you could use it for free inside of their chats so
+inside of that first website I showed you you could pick it which I'll show you exactly how to find it and
+use it totally for free custom gpts can't be built and used for free you have to pay for them to build them
+clot projects you have to pay to build them here you could build them and use them for free the only
+time you may want to pay is if you want to use their API so if you're building some kind of AI app using
+this then you'll need to pay because API is pay as you go and you will have to pay for that or if you want
+to test it out while you're building it on the right side is letting you test it out that requires a subscription
+but it's not a flat rate it's pay as you go and I'll set that up in this video as well but for most of you you
+could go ahead and build this AI agent you could go ahead and deploy it you could share it with other
+people and you could use it all for free and in order to do any testing with it by the way it says it's great
+out right here because we need to set up a subscription so let me show you exactly how that works if
+you decide to go this route this does have a free trial again I don't know if this is available in every
+country but over here I could go ahead and activate it or or I could just press subscribe over here and
+the pricing is based on what model you choose in the very beginning so some of them are very cheap
+like some of these older models are very cheap but if you use mistro large 2 you could see this one
+right here is $3 per million tokens on the input side $9 on the output side just to compare this with gp4
+for example it's slightly cheaper it's I think about half of GPT 4's newer model somewhere around there
+but it's not that far off okay so just so you have some idea if you were using the API on the GPT side
+now if I go back to the chat interface here any agent I build by the way is going to appear just like this
+and I could build other ones here and over here I could just type in this again would be a simple
+LinkedIn post and then I could go ahead and send this out and it should use my set of instructions I give
+it for this very specific task and as you could see this was the LinkedIn post that I would have written
+and it's making it again much more comprehensive based on my set of instruction and based on that
+few shot prompting which was given an input example and an output example and wow this is pretty
+involved here but it looks like a linked impost right something like this would probably get a lot more
+engagement than something that's just a simple one sentence a great way to optimize anything and I
+usually like to use these AI chat Bots for exactly this purpose to remix content to take simple content
+make it much better and I use this across all the different social medias that I post to or even for
+newsletters and email copy too and I recently made a video comparing Claud projects to custom gpts
+too so those are your two other options this was a new one that I wanted to add to the mix but I
+recommend you watch that next some of those have better options that this doesn't have including a
+way to upload your own documents as part of your GPT your own knowledge base chat GPT could do
+that clot projects could do that this cannot do that yet which is a big big limitation that hopefully they
+improve on but I hope you found this useful and I will see you on the next video
+References and Recommendations: No references or recommendations found.
+Page 2

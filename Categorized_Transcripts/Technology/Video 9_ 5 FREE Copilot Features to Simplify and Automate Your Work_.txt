@@ -1,0 +1,93 @@
+5 FREE Copilot Features to Simplify and Automate Your Work!
+URL: https://www.youtube.com/watch?v=_-x8dp48EBY
+what if I told you you've got access to a free Microsoft co-pilot that you could use today what if I also
+told you as well it's got Enterprise data protection ensuring that your business data remains secure that
+you share with co-pilots now you're probably wondering where on Earth has this co-pilot been hiding
+and not to worry because today in this tutorial I'm going to show you how to access the free co-pilot that
+you have access to when you have a Microsoft 365 license for 365 services and how you can also draft
+emails write reports generate document summaries and more and before we dive in if you like this
+video hit that like button not forgetting to hit the Subscribe button to find more great content like this that
+we put out every single week anyway let's go and find out where that co-pilot's hiding to get started with
+the new free co-pilot well it's really easy to do open up the edge browser then select the co-pilot icon on
+the right hand side but also recommend left click and drag to also extend the sign of your co-pilot
+window because it makes it much easier to use now also you'll see the green shield in the top right
+ensuring commercial data protection is enabled because I'm signed in with my work or school account
+ensuring that the data I share with co-pilot remains secure is not accessible to anybody else well let's
+get started now with drafting up an email we can have it pretty simply write up an email to chase up an
+invoice to do that here I can go down to ask me anything and I can add in a prompt to write me an email
+adding specific details including the tone and length of email we our prompt added into co-pilot you can
+simply click on the send button and you'll see in real time that co-pilot now generates us with a reply
+yes we can see it adds up the subject it adds also the invoice number I provided and even mentions it
+was due last Monday as I told co-pilot now you'll see because this is the free version of co-pilot it
+doesn't know who you are but that doesn't matter too much because you can take a copy of this email
+put it into Outlook or any other mail app and make the necessary changes to get it personalized to you
+but a simple prompt has been transformed into a professional email but how about we up the game I
+need to have a report generated for later on today outlines the challenges of project Green Space in
+London with some changes in legislation can this co-pilot help me out but I believe it certainly can now
+what I'm going to do is change the conversation by clicking the new topic button on the left of your
+sidebar that cleans the slate and ensures the past email doesn't get added into any of the new answers
+and co-pilot and this time we're going to give it a new prompt to draft me a a report and giving it an
+outline of what I need and again the length and tone inside of our prompt with our prompt added into
+this dialogue where I'm asking co-pilot to go ahead and write this report for us we can see that co-pilot
+can take information from the web and begin to build out this report report yes we can see straightway
+executive summary introduction as it builds it out we can see it live on the screen and we can now see
+in the sidebar that we've got a report and once again we'll expand the window so we can see more of
+what's been created you can see conclusion challenges impacts on green projects and all the changes
+in government policies and it's also referenced the relevant information from different sources for
+example here this has been taken from a UK government post around changes in the Regeneration of
+land so very professional reports written in just a few minutes we can also take this into word we'll go to
+the bottom and select copy open Word and simply paste in the contents here you now see we've got
+our Rapport added into Microsoft Word yes you'll need to tailor some of those formats and remove
+those references if needed but of course what we now have is a report that we can now share
+potentially of other stakeholders generated in minutes or you can further refine to make it even better
+so a free co-pilot that can help you write your reports on specific topics which can save you a whole
+heap of time if you're intrigued with this new version of co-pilot and wondering how it can also further
+automate your work well we've got you covered we've got a brand new on demand learning course that
+we've created and how to use the free co-pilot to automate your work over 20 different video chapters
+that we cover in using co-pilot and also understanding the best way to get the outputs from it you can
+find out more from the web link below and even on our same website you'll find the ability to download
+a free Microsoft 365 ebook you can download and access today so other than that let's dive back into
+copilot and see what else it can do to help you but we've got some data we need to analyze and can
+Page 60
+co-pilot help us out well it absolutely can once again I'm going to go and select new topic to wipe the
+Slate clean and did you know you can either attach an Excel file or even take a screenshot of data to
+have co-pilot through the sidebar help you out well I'm going to do is click on the attach button I'm going
+to go browse over to these bills of project greenspace this information held includes some bills for
+project greenspace I need to understand some totals from so all we then need to do is ask co-pilot to
+help us with some high level data analysis let's go ahead and ask co-pilot exactly that we can see that
+Co pilot has now replied it did actually mention that it encounters some issues with file formats but not
+to worry it still analyzed all of our Bild data 32 bills the total amount the number of bills that have been
+unpaid and also the amounts unpaid and paid a simple question took less than a minute to generate
+high level data analysis from a spreadsheet of data and we can even ask further questions of co-pilot to
+further analyze our data you can now see we've asked co-pilot to provide a breakdown of bills by by
+customer it's taken each of those customers from our spreadsheet and it's now looked at the bills for
+each the amount the average and so forth and it's generated that again in less than a minute powerful
+capability from co-pilot but co-pilot capabilities don't end there because we can have it generate images
+for us yes using Microsoft designer which is integrated in co-pilot we can ask for it to create an image
+I'm going to give co-pilot a prompt to create an image I'd like to insert into one of my PowerPoint
+presentations for an event that we've got coming up for project greenspace let's go ahead and give
+co-pilot that prompt I've now as co-pilot to generate an image of a London Skyline with green area for
+parks and the community but also we're going to use it as the first image for our PowerPoint so I want
+to make sure it also fits those Dimensions you can see that co-pilot has now passed that query into
+designer and it's now going to try and create four images and here we go four Images created by
+designer we can also left click into these images here and choose the best image that suits our needs
+this one may well be that image when you've got your image you can rightclick copy or save image as
+to bring it into other apps like PowerPoint and in PowerPoint I've simply added my picture but now we
+can also use designer yes on the right hand side we can see this image can now be transformed with
+designer so now I've got a new first slide in PowerPoint with an image designed by designer even looks
+more professional and you won't find anywhere else so designer and co-pilot can even improve your
+presentations but how about social media posts because in Project greenspace we've got a community
+group on Facebook I want to give a latest update on how we're getting on and inviting people into an
+event that's upcoming and I can also have co-pilot help us out with that inside of our sidebar let's ask
+co-pilot to draft us a social media post that's ready for Facebook and outline the needs of that post as
+well with our post added into co-pilot ensuring I've also noted it to make it enthusiastic on the right hand
+side we can now see our Facebook post that we can take into our group that's how easy copilot can
+even help with your social media posts across all of your different projects so we've seen five different
+ways the free co-pilot with Enterprise data security can automate some of your work so what do you
+think about your new best friend at work a co-pilot can automate your work that you've got access ACC
+to for free and you probably didn't even know existed because now you've got the ability to use an AI to
+draft emails write reports summarized documents and more and hopefully that's going to help you
+become more productive every day if you like this video hit that like button not forgetting to hit that
+subscribe button to find more great content like this that allows you to use the tools you already have in
+much better ways even including co-pilot so otherwise we I'll be seeing you on the next one [Music]
+References and Recommendations: No references or recommendations found.

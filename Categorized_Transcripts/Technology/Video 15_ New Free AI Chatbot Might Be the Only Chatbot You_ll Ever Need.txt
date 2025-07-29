@@ -1,0 +1,71 @@
+New Free AI Chatbot Might Be the Only Chatbot You'll Ever Need
+URL: https://www.youtube.com/watch?v=15bpNKJB-X4
+I just came across a brand new AI chatbot and this one could do something I've never seen any other
+chatbot do and I'm not affiliated this is not a sponsored video but I think you're going to find this really
+useful here this chatbot is called not Diamond you could use it at chat. diamond. and as I'm recording
+this is completely free to use it has no limitations I'm sure they're going to add it at some point but let
+me show you exactly what it does so this has access to all the top AI models in one place and there are
+other apps that do this too that's not the unique part of it so you're going to make sure all these are
+checked on they are by default so you're going to get access to all the cloud models you're going to get
+access to all the GPT models llama models even perplexity is included here so then what I do is I would
+just use it just like any other chat bot I'm going to type in my prompt I'm going to try this prompt can you
+draft a reply for this email keep it friendly and Casual I'm going to paste this email here and I'm going to
+go ahead and send this out and this is the unique part of this ch mbot so it's going to give you a
+response but if you look on the bottom here it picked claw 3.5 Sonet here and he made that decision on
+its own and the reason why he did that is because it thinks for the specific task of replying to an email
+claw 3.5 Sonet is the best model which I agree with so depending on your prompt it's going to choose in
+the background the best model available to answer you and again all of it is available here so all the
+best models it has access to now my workflow right now is jumping between different chat Bots yours
+might be the same right so some things related to writing a lot of times I use clot sometimes when it
+comes to summarizing existing texts I like chat GPT more let's try another one what's in the news today
+so this one a lot of the models are not going to have internet access to be able to answer that and if you
+look on the bottom it CHS perplexity again if I was doing that search myself I would probably open up a
+new web page go to perplexity run that prompt right I'm not going to probably use chat GPT or Claud
+for that now let me go to a website I'm just going to copy this entire website I'm going to ask for a short
+summary here paste everything in that blog post send that out and again this time it chose claw 3.5
+Sonet so sometimes I personally use chat GPT to do this task but it looks like this is the model he
+chose and if you disagree with his choice well you just click right here and it has all these other models
+you could choose from so if I wanted to use chat GPT I'm gonna get the answer here out of GPT 40
+right so I could just switch between them and one more really cool thing I found is if you give it a
+thumbs up every time let's say that's my preference that for summaries I always want to use GPT 40 if I
+give it a thumbs up this is going to remember that every time I ask for a summary to use this model
+moving forward and not use cloud if I give it a thumbs down it's going to try a different model one more
+really interesting thing it has under the settings he has Arena mode so if you turn this on I'm going to
+give it another prompt here I'm going to ask it for marketing methods for small businesses this is the
+battle mode where you're going to get one on the right side one on the left side and if I go to the bottom
+of it you're not going to know which model it is so you're going to need to give it a score here which one
+is good which one is bad so I'm going to choose this one here on the right and then when I choose it it's
+going to tell me which model won between these two models so this was claw 3 hi cou versus GPT 40
+now if you also look on the bottom it's going to show you speed and it's also going to show you a cost
+as I mentioned right now this is totally free there's no way to even pay for it and I'm really not sure how
+they're doing that but the cost is if you're a developer I believe they offer an API for developers here so
+it's showing you the cost so you could understand how these models compare in cost and let me see if
+it's any good at analyzing documents because you can upload documents to it I'm going to say give me
+a short summary and Yep this was related to my last video related to Claude artifact it spelled Claude
+wrong because my transcription also had that spelled incorrectly but now it knows to use gp4 every
+time I ask for a summary which is my personal preference and this is also very useful right here it has
+something called custom system prompts if you turn this on it lets you give it a system prompt and what
+a system prompt lets you do is it lets you give a set of instructions at the account level so you don't
+have to do that inside of every individual prompt so I've built something it's a custom GPT that's
+available for free inside of chat GPT and this one creates the custom instructions for you so all you
+Page 81
+have to do is type in something very simple and mine is just going to be always reply in a casual and
+friendly tone like you're talking to a friend and if I send this out this generates something much more in-
+depth as far as a custom instruction goes so you an AI model designed to respond in casual tone like
+your ch with a friend it should be warm approachable engaging so I could just copy this over and then
+go back to this app and then type that out and this is my casual tone and I'm going to go ahead and
+save that as my system prompt and now all I have to do is pick this casual tone I could make multiple
+different system prompts here and then it's going to take care of it in the background for us every time
+we start a new chat it knows to use that prompt in the background and you don't have to include it in
+every single prompt now now if you're like me and you're using a bunch of different AI chat Bots I'm
+going to perplexity for research I'm going to chat GPT for summaries I'm going to Claud for writing
+emails and things like that well this just took care of all of that for us in the same chat right and it has
+access to all the top models it's not even excluding Geminis there llama is there so it's really strange
+that this is free right now so I wouldn't cancel any of my subscriptions just yet but really interesting tool
+that does something that other chat Bots just can't do because they're just made by that one specific
+company typically and they're not going to be able to make that selection in the background for us there
+are other platforms where you could choose between chat Poots but you have to manually choose that
+this has been making really good decisions in the background in a couple hours I mean testing again
+I'm not canceling anything but give it a try let me know what you think in the comment section and I'll
+catch you on the next video
+References and Recommendations: No references or recommendations found.

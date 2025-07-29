@@ -1,0 +1,219 @@
+Must-Have AI Apps for Your Phone (Ultimate Guide)
+URL: https://www.youtube.com/watch?v=CR-BYsNS6nw
+a lot of the AI tools and innovations that make the headlines involve being at a computer but you can
+use AI for all those same incredible things across endless use cases all right on your phone some of
+these apps I've been using daily for months but I also filled my phone up with more apps that I tested
+for this I'll give the best free and paid options for every category it's mostly free I'll start with the most
+popular of all I'm sure most people watching have used chat GPT before so I'll skip the basics and
+just show a few cool use cases specifically as they apply to mobile a vis was a huge game changer
+which I use all the time you can upload any image and it will know what's in the image and you can
+ask questions about it like this morning when I was taking the trash to the curb I guess it's more of a
+snow pile than a curb [Music] now or I forgot the species of a house plant that we have or when you
+need to replace something in your car or fix something around the house instead of finding a
+YouTube video you can go back and forth with chat GPT now those are just some everyday
+examples it can do much more complex things like upload a drawing of a website idea and it will
+generate the code for it can recognize food dishes then create a recipe all sorts of stuff it is
+incredibly helpful another feature that I use only on mobile is voice chat you can tap right here and
+then speak your question I started a disco Metal Fusion band what should we be called Mirror Ball
+Mayhem would be a great name for your disco Metal Fusion band you can also use dolly3 one of the
+highest quality image generators right within voice chat create our first album cover that is amazing
+GPT 4 vision and Dolly 3 are only available with chat GPT plus which is $20 a month but there is a
+way to use all of those for free the Microsoft co-pilot launched their mobile app recently I'm on the
+free plan and as you can see here I can switch to GPT 4 I can take a picture of that same house plant
+with vision and and it gets the same answer I can create images with Dolly 3 a secret society of
+anthropomorphic barn owls wearing cult robes performing secret disco rituals aspect ratio 169 there is
+voice input and it even has an option chat gbt plus doesn't have this plugin called suo to create music
+so let's create a song for that disco Metal Fusion band it'll be about a secret society of barn owls all
+right so while that's generating if we're just comparing the free plans co-pilot wins easily the main
+benefits of chat GPT plus are it is much faster and remembers your conversation better it can handle
+larger documents can do data analysis and you can build your own custom gpts I find it to be worth it
+because I use those additional features all the time and the extra speed is really nice but for casual
+users it is probably not worth paying the $20 per month over using co-pilot for free let's listen to this it
+actually only took a few seconds to generate the [Music] together oh I'm going to stop it right there is
+just too good I'm going to use some of the tools we'll get to later and turn this into a full music video
+This always seems to happen another llm I'll mention here is character AI if you want a more fun
+experience it's a chat bot where you can select from all sorts of different personalities to chat with I
+personally had never use this one but it is the second most visited AI tool almost 500 million visits per
+month you can't really argue with those numbers so I had to give it a try there's a big list of characters
+to talk to got Einstein Napoleon or there's things like a dating coach or tutor you can also create your
+own character to chat with or start a group chat I feel like talking to gigachad someone told me I look
+just like [Music] you that's the spirit with the right attitude you will be unstoppable you are a winner I
+did that face swap all on mobile the photo and video tools are super fun we'll get to those later one
+more I really like that's kind of in this category is perplexity so how I use perplexity and think about it is
+essentially as the best replacement of Google instead of just a list of links it gives you direct answers
+with sources for further reading then you can ask questions for clarification which website can I use to
+find the best AI tools and look at that I think this type of conversational search is the future of
+searching Google is working on this themselves to compete but right now perplexity is the leader and
+they just secured $ 73.6 million in funding so who knows maybe they'll Dethrone Google as the
+default Search tool they already have for me I'm going to do a rapid fire through just a whole bunch of
+tools across all sorts of use cases they're all super cool they won't each apply to everyone but it's
+been just really interesting to research and test out how all this new technology is being applied in
+Page 17
+different areas Socratic is a Homework Helper by Google you can take a picture of any homework
+question and it will show you the answer but also how to get there yourself so so it's a really fast and
+easy personal tutor that works across all subjects and I'm sure there's no one out there using this for
+any reasons other than as a tutor if you make a lot of voice notes whisper memos is great you speak
+into it then it will use AI to transcribe and format your note into paragraphs to make it easier to read
+then it will email it to you we'll also add a relevant Emoji to help jog your memory of what you were
+talking about in a similar realm but more comprehensive is otter an AI meeting assistant it can record
+and transcribe your meetings in person or on Zoom Google meet and Microsoft teams then you can
+search the text to play back the audio at adjustable speeds then tap the words to jump to different
+spots uh can highlight key points to review later has automated slide capture it will insert into the
+notes this works in the mobile app and also has a web version it's really helpful if you have a lot of
+meetings although some of these companies are starting to implement similar technology natively
+into their platforms du lingo has been one of the best language learning apps for a long time and
+they've Incorporated AI it is a paid add-on but adds some really useful features like explain my
+answer if you get something wrong or right you can jump into a conversation to understand more
+specifics there's also roleplay where you'll speak in real time to the AI it generates the conversation
+as you speak so it will be a different experience each time after the interaction you get AI powered
+feedback from duo with tips for future conversations this is huge you used to have to go out and find a
+native speaker to practice with which you should definitely still do when you can humans are pretty
+cool too but that's not always an option another in the language realm is Elsa an AI tutor for
+non-native English speakers so you input your native language and it will use its speech recognition
+to help improve pronunciation and offer alternative phrasings can also roleplay conversations to help
+prepare and offer feedback being able to detect the subtleties of different accents and offer feedback
+is pretty incredible to me seeing AI is a free app from Microsoft to help people with vision impairment
+so it uses the camera to identify people and objects and describe them audibly that can help with
+reading describing photos identifying products saving people's faces so you can recognize them
+really cool stuff we've hit the first Waypoint let's look with the camera left and right and we can hear
+the location of the next Waypoint let's keep going there's another one Google Maps has some new AI
+features rolling out they're really cool but only available in these 15 cities right now so I'll cover it
+quickly imersive view lets you explore locations in 3D instead of the 360 panoramas in street view it's
+much more well immersive you can click on time and weather and see what it will look like at different
+times throughout the day it's really great to see what a route will look like before your trip as well and
+I'm sure it will take some time before that's integrated everywhere yuper is an app for mental health
+it's essentially a chat bot that uses cognitive behavioral therapy to track your moods thoughts and
+feelings and also provide interactive exercises to help them improve this one isn't something I've used
+but it has good reviews and something to look into if that sounds interesting to you I think AI has a
+lot of potential in the areas of mental and physical health it may not be there yet but will be far more
+accessible than traditional forms of therapy and quite possibly Superior speechify is the best text to
+speech app I tried it works for PDFs web pages text messages emails handwritten notes just all sorts
+of text it has a bunch of pre-programmed voices including celebrities so you could take a picture of a
+page and have Snoop Dog read it to [Music] you the Mind adapts and converts to its own purposes
+the obstacle to our acting the imped to action advances action what stands in the way becomes the
+way move AI is a really easy way to do motion capture it captures all the 3D data right from your
+phone which you can export to use for 3D animation and something like blender I mean that part
+wouldn't be on mobile but is also free Luma Labs is one of my favorites on this entire list you can
+create 3D captures of any scene right from a free app on your phone it's really easy to use you either
+capture the scene with the instructions in the app or take a video with the normal camera app walking
+through your scene or around your sub object right then just upload it and let it render once it's done
+you can navigate through the scene right on your phone or send it to a friend for them to explore so
+it's super easy you can go deeper than that if you want and create custom camera movements with
+key frames to fly around the scene and make it look like a drone shot without using a drone there's
+just Endless Possibilities with this I'll be combining it with some other tools a little later with inv video
+you can create entire videos with a voice over stock video clips music and transitions all from a text
+Page 18
+prompt and they recently released their mobile app which made them the perfect sponsor for this
+video so I'll jump right in here and create a video I just log in and start writing my prompt let's make
+an engaging 45C video about the top five most dangerous animals and an awesome feature they
+added here is you can upload a 30second clip of your own voice and it will clone it sometimes AI
+voices can sound a bit generic uploading your own can make it sound more natural it asks for the
+audience the look and feel and the platform these all look good then it starts editing and in under a
+minute we have the finished video Welcome to the perilous world of Nature's most dangerous
+creatures at number five we've got the Fearsome saltwater crocodile this looks solid but we can edit
+it further if needed through conversation I want the first clip to be a little more intense welcome to the
+perilous world of Nature's Most right that looks great I'll just add some captions too you can also edit
+the scenes or script man ually so let's switch out one of these clips about a crocodile biting I went
+through these some of them were probably too intense to throw in here so I'll just add this one
+walking now when we go to export we have a few options to remove the water marks which you'll
+want to do if you're posting this anywhere they have different paid options to upgrade to that gives
+you access to the voice clowning as well let's check this whole video out welcome to the perilous
+world of Nature's most dangerous creatures at number five we've got the Fearsome saltwater
+crocodile a living Relic with a bite force unparalleled slithering in at four we find the venomous inland
+taipan whose lethal cocktail can take down 100 men at three we have the stealthy box jellyfish a
+translucent Terror that packs a lethal sting taking the second spot is the Majestic African elephant a
+gentle giant until provoked and Topping our list the microscopic mosquito an unassuming Menace
+responsible for millions of deaths annually remember respect Nature's power and tread lightly all that
+in just a couple minutes from from a text prompt you can try nid out for free on the app or the website
+I'll link to both below and thank you so much to Nido for sponsoring this video now on to images this is
+the section I downloaded the most apps to test for I picked the best for a few different uses first is
+image generation there's a ton of options out there my allaround favorite that has just a really robust
+free plan is star AI there's all sorts of different styles to choose from they make it really easy to
+explore and get inspiration you can open a category to see different Generations it does just a great
+job with creative or abstract stuff but also photo realism so let's check out photography I can do very
+realistic people which is a struggle for a lot of the other mobile image generators this one looks
+interesting so I'll open that up and it will show The Prompt and style that was used and other similar
+Creations below I'll remix this one as is just for the ease of demonstration then that was done pretty
+quick and I have four options those look really cool you could also explore by style instead of
+category you can even upload a set of images to train your own style there's also options for
+uploading an image or a sketch as input you get five credits per day for free which generate four
+Images each so 20 images per day and as long as you click the button to claim each day they build
+up in your account so if you remember to do that you can end up with a lot pretty quick at $7.99 per
+month to upgrade another similar one I want to mention quickly is wonder I preferred the generations
+and ux from Star but Wonder has these cool illusion Styles which are really fun you can can transform
+your face into different scenes or you could use it with patterns like the spirals that went viral a while
+back or logos or text I assume they're using illusion diffusion under the hood but they make it really
+easy to jump in and use and you get five free per day if you want an AI Avatar of yourself there's other
+apps out there that you can train on your face by uploading a bunch of images the app that started
+the whole Avatar trend is lenza and from what I tried it still seems to be one of the best at this that's
+actually the app I created my profile picture with when I started this Chann Channel although I would
+do it custom now you click magic avatars select your gender then select up to 10 different styles then
+you'll upload 10 to 20 selfies it's $7.99 for 56 avatars $1.99 for5 then you let it generate here's what
+mine came back with they're pretty solid and look a lot more like me than any of the free options I
+tried that's what made lenso really popular they also have some other features for touching up photos
+focusing on portraits and selfies but an app I tried that's even better at that is called face tune it can
+do things like smooth skin change eye color reshape your face if you have a need for that sort of thing
+it was actually pretty crazy how easy and good it was at that the best free face swap I've found is in
+Discord as I've discovered in the comment sections of previous videos there's a big chunk of people
+that just hate Discord which is understandable so I'll cover it quick so you can see how it works I have
+Page 19
+an entire video on how to use it if you think it looks cool the link in the description on this one will be to
+invite the bot to a server once it's there you use the command save ID to upload your face once it's
+saved any image you upload in Discord or generate with mid Journey you can hold down on it then
+select apps then click in swapper now it switches it out with my face I know that was super fast watch
+the full video I have on it if you want to learn that there were lots of paid apps for face swapping you
+get 50 credits per day for free with this one if you don't mind Discord and moving on to the most
+impressive category of all and another extremely difficult one to research and narrow down video
+tools did is the best mobile app I've seen for making talking avatars it is paid though this is what I
+used to make that clip in the beginning so I'll take the face swap of me and gigachad and I'll add a
+script of the response it gave me in character AI then select a voice that's the spirit then you can
+select an emotion that's the spirit that's the spirit that's the spirit that's the spirit that's the spirit and let
+it generate it's easy as that I don't have much need for this Beyond random little meme videos every
+once in a while but it's fun that's the spirit with the right attitude you will be unstoppable be kind to
+others and let nothing in your way you are a winner kyber is another one of my personal favorites
+there's a lot you can do with it you can do text a video image to video and video to video I used it to
+make a music video in a previous video that was with the flip book style you can storyboard out the
+whole video to transform it into different scenes and sync it up to music since I used that last time I'll
+do the motion Style this time you could upload an image to start with but I'm just going to use text
+stick with that owl theme then you can choose one of their preset Styles or come up with your own
+then choose an aspect ratio now you can choose the length and how much it will evolve throughout
+the clip then [Music] generate that's actually pretty solid for a first try kyber is definitely better with
+things that are more animated and not photo realistic now I also want to use the video to video to
+edit a scene I got with Luma Labs I'll show what I did in Luma Labs I actually just clicked oscillate to
+make it go in a circle and just kept a couple of the key frames I'm going to take that and I want to
+make it look like it's spinning through the wall into different scenes so in kyber I just click transform
+and then upload the video for the prompt I'll just do a man leaning against a wall in a forest I'll use one
+of their pre-made Styles I'll try 3D rendering then move on to settings I'm going to bump the transform
+up to 9 this next screen will have some thumbnails to choose from to give you an idea of what it will
+look like now [Music] generate and that looks awesome I'm going to do the same thing a few more
+times I'll try underwater on fire and in space I'll test out a few of the other styles too right made a
+bunch of those and now I will edit the whole thing together in cap cut that's my go-to mobile video
+editor it's just really easy to use and they have added in a lot of AI features as well this will be a pretty
+basic edit though I just need to upload all the clips and really just put them next to each [Music] other
+Runway also does text to video image to video and video to video but does them very differently than
+Kyper I use Dolly to generate a bunch of images of the secret barn owl disco cult now I'm going to
+animate them all with Runway I'll click Gen 2 and upload an image then there's a few options in here
+I'll start with the easiest where I just write a simple prompt and let it generate and while it's working I'll
+pull up a different image and this time I'll enter directors mode we have all sorts of options I'll start
+with motion brush I want the disco ball to be raising up to this position so I'll paint over it with the
+brush then I'm going to have it move down from here and play the clip in Reverse you can use
+multiple brushes to add completely different types of motion to different parts of your image this is
+how would do that um I only really need one for this so I'll delete those now I'll switch to camera
+controls they give you full control here as well I'll just add a zoom out but they've got all these pans
+and tilts too that's what I like about Runway they put a lot of effort into giving you creative control over
+your Generations instead of just click a couple buttons and see what happens let's take a look at that
+first clip that worked out pretty well and what I'll typically do is generate a bunch of times and then
+pick the best option let's check out that other one that looks great I have a ton of images to go through
+then all I'll edit it all together in cap cut on mobile so every part of this will be done on my phone the
+song using Theo plug-in and co-pilot Dolly 3 for the images Runway to animate them then cap cut to
+put it all together [Music] togethering with of ready to about dance fire me out [Music] tonight the [Music]
+moon I think that turned out pretty awesome I don't know if I'll ever be able to top the Frog cyborg
+music video I'll have a link to the video that was in on the screen here if you didn't see that one and
+make sure to check out futurepedia to stay up to dat with all the best AI tools you can search through
+Page 20
+the database and save favorites to your profile then get recommendations every week for tools to
+check out that you might like it's the best place to find the right AI tool to help you with your work
+creative or personal life and if you made it this far I'd hope you've already clicked subscribe give that
+button a little tap if you haven't it really does mean a lot thanks so much for watching see you in the
+next one
+References and Recommendations: No references or recommendations found.

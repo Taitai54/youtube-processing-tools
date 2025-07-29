@@ -1,0 +1,168 @@
+The BEST AI Automation Use Cases For Businesses: STEAL THESE
+URL: https://www.youtube.com/watch?v=6CBMnGuY2vI
+building an AI automation agency in 2024 has never been easier and in today's video I'm going to be
+walking you through some of the best case studies that I've potentially ever seen of big businesses
+using Ai and how it's helped them now what I want you to do is take every single case study that I'm
+about to go through and zoom out see how this can affect other businesses see how you can
+implement this into a smaller business for example or see how you could do something similar but
+mostly I want you to start seeing the patterns in how these different automations and different AI
+Solutions are helping these businesses so that you can start doing the same with your client if you're
+still sat there thinking that the AI automation agency model isn't the one for you then stick around watch
+till the end of this video I guarantee you it will change your mind so let's jump into it so look the case
+studies that I want to go through today have actually been released by Salesforce now there's over 83
+different case studies and each one gives us a little insight into the types of clients that they're working
+with and how AI is helping them okay so one thing we have to realize is Salesforce they have their own
+range of products they have lots of different tools crms AI Solutions everything built in house and these
+case studies we're about to go over specifically go over clients that are using the whole family of
+souforce whether they're using slack whether they're using Einstein which is their AI whether they're
+using Sal Force as a CRM or their analytics dashboard whatever it is Sal Force covers everything and a
+lot of these clients use the whole Suite so look before I jump into the article I want to go over a few
+things with you what I really think that you can take from this video and from these case studies that I'm
+about to go through with you is what it should do is give you a really clear idea of what is being done in
+the real world and what is being done at a higher level at the end of the day you can go and create chat
+Bots and you can go and create simple automations for people but you're you're going to hit a wall
+you're never going to be there to scout to those big numbers if that is all you're doing and I don't care
+what anyone says if you go and start an agency and you manage to get it to 50K per month selling just
+chat bot then please come and let me know because you are a hero my friend what we can do with the
+information that s Source has given us is we can start to look at the trends and the key words that
+different clients are using to show us what their initial pain points were and if you're smart you can start
+to reverse engineer from these case studies and see how you can potentially roll that into another
+industry or a smaller client that is potentially Within Reach of your agency so let's take a look at this this
+is EVP at Vonage he says sales forces Solutions have helped us to automate workflows to allow our
+teams to collaborate more easily drive value for customer customers and fuel our International
+expansion so let's dive into this their website is littered with all of this information and what we can take
+from this is well we know that Vonage was struggling with automated workflows and Salesforce has
+stepped in seen a huge opportunity there and a massive paino that Vonage was likely facing and
+they've been able to help them fix that so as I mentioned Salesforce have their own generative AI tool
+um or solution it's called Einstein now Einstein 1 is a platform that unifies your data AI CRM
+development and Security in a single comprehensive platform it empowers it admins and developers
+with an extensible AI platform facilitating fast development of generative apps and automation so in
+essence I would assume it's something similar to zapia and make tied into a platform like relevance
+where you can set up automations and you can create generative conversational flows all of that stuff
+now this is he Conan director of brand EXP in platforms at General Mills the combination of AI data and
+CRM allows us to help busy parents solve the what is for dinner D dilemma with with personalized
+recipe recommendations their family will love so again we're seeing something that we've spoken about
+on this channel before by creating personalized uh experiences whether that be from a personal trainer
+in a gym creating guides on how to work out or creating meal plans or in the case of General Mills
+helping busy parents find out what is for dinner now of course this is done on a much bigger scale these
+guys are tying it into their CRM data they're looking at what products people are buying and what their
+clients are buying and then they're coming up with recipes and solutions off of the back of that data now
+nine times out of 10 we're not going to have these huge crms with these huge amounts of data inside
+Page 62
+but it does make you start thinking about what can we do with data that we are collecting and if the data
+is in a CRM how can we use that to supercharge that business and whatever they're trying to do so
+look let's jump into some of these case studies I know you are desperate to see them number one we
+have Gucci now I've boiled each case study down to the core of what is actually being fixed here with
+AI and in Gucci's case just improved their customer experience now Gucci's 600 client advisors across
+seven Global hubs can now communicate with a clear brand voice while amplifying the human touch
+with AI Gucci's nine teams are empowered to engage with customers on their specific interests along
+Ong the customer Journey now if I flick over to the website and I'll link this website down below so you
+can check out all the other case studies we can see here that what they've essentially done is they've
+essentially built a Gucci conversational bot that is trained on all of Gucci's product catalog it can be
+used on WhatsApp it can be used in the store but it's essentially a bot or an agent that is trained on
+everything Gucci it speaks like Gucci it helps their clients it helps their customers and it just gives
+Gucci's team another angle another Edge right so I definitely recommend flicking through this and
+seeing exactly how it works and what they've done but again they've tied into Gucci's CRM on inside of
+Salesforce and they have now supercharged advisors and Gucci's team members because they have
+all that data at their fingertips that is now plugged into a generative AI model that is actually sending
+messages on Whatsapp or responding to people on the website once they've logged in so really simple
+if you think about it like that and the reason why I wanted to break it down into what it is they're actually
+trying to do and in this case is just customer experience I want you to start looking at these case studies
+trying to find the core thing that they trying to help because once you do that you start to realize that
+actually that is the pain point that a lot of people are facing we know that there's tons of Ecom stores or
+retail stores just like Gucci that could definitely utilize something similar or benefit from a similar piece
+of tech just like Gucci's done if they took their product catalog and they took all their orders maybe
+that's done inside of a Shopify store they looked at what is being ordered and they looked at how
+frequently people are buying certain things you can start to use that data to supercharge your client's
+business think about it why wouldn't gym shark be using this why wouldn't represent be using this why
+isn't every single Ecom store out there using some form of generative AI that is tied into the back end of
+whatever system they're using or CRM and it's given personalized customiz support to that customer so
+let's jump on to the next one the next one is make a wish now again I've boiled this down to alterations
+something stood out in the make a wish case study for me which was super interesting so make a wish
+previously sent thank you messages to donors manually after they made a gift now the organization
+automatically sends personalized thank you messages after every contribution so if we jump onto the
+make a wish case study and for those of you who don't know make a wish is this like charity that helps
+terminally ill kids essentially make their dreams come true you know you see it all the time like super
+Heroes going into hospitals and that kind of thing and and it's fueled by donations as we just saw they
+were originally sending manual thank you messages out so that was taking up a huge amount of time
+and super labor intensive so why wasn't there some form of Automation in place that handled that so
+we can see here what the difference looks like we can see that staff can now enter all their information
+through the portal built on experience Cloud again another souforce product this allows team members
+to track how many children want to visit a specific location and helps coordinate their visits more
+efficiently now again we can take information from that right now there's probably plumbers and
+electricians out there that have tens of jobs every single day and they don't really know how to prioritize
+what job to do if they get stuck in traffic somewhere they may have to call the last person up and cancel
+that person what if there was a system in place that they could Implement where the AI essentially
+looked at Google Maps or it looked at the roots that this electrician had to take that day and it actually
+started to plan their day around the current jobs that they had and the type of work that was involved so
+again we're not specifically looking at Salesforce products here we're not looking at using Salesforce
+products what we're looking at is the use cases and seeing how we can incorporate them into the types
+of clients that we're going after so the one that stood out for me is like I said they were sending manual
+thank you messages and that is all now handled automatically um through another Salesforce product
+but again we can do this inside of our own crms we can set up workflows we can set up zap your
+actions whatever it may be we can do this ourselves another great case study of how a huge company
+is using simple automations inside of their business and to me I was blown away because I was like
+Page 63
+well why the hell were they doing it manually before it made no sense but they were so that should give
+you hope knowing that there is so many businesses out there that need your help now the next case
+study is rosignol which is a big ski brand and again I've taken what their main outcome was with
+working with Salesforce and for them it's c analysis now you could say customer analysis is kind of
+across everyone because that is what Salesforce does they tie everything into their CRM but especially
+with the Ross ull case study Ross 's marketing team generates three times more campaigns per week
+thanks to automated Journeys and AI now it dynamically translate campaign content into different
+languages and sends emails at times when they are most likely to be read so again going back to the
+analysis side of things rossal is essentially just looking looking at their orders and the types of products
+that they're selling to through their B2B wholesale Network and they're making decisions based on that
+data they're analyzing that data and they're using AI to analyze that data which is then supercharging
+their decision- making so again we can look at this and we can say what other companies could benefit
+from this and there are honestly an endless amount of businesses that could use something like this
+wherever there is data if you can analyze it in a smarter way and help that business owner make make
+a smarter decision that would ultimately lead to a higher Roi or reduce cost in staff hours or increase
+efficiencies then you are onto a winner so overall rosing achieved a 300% increase in volume of weekly
+marketing campaigns two times contribution of CRM to e-commerce Revenue which is crazy and a
+28% growth for group in 2022 to 2023 which is just insane now I'm also not saying go and steal all of
+this information but don't be afraid to use these in conversation or talk about these to prospected leads
+that you're speaking to because at the end of the day these are real case studies of how AI has help
+these businesses now this next one is a big one this is Spotify I'm sure we all use Spotify and what
+stood out for me was their client onboarding and kind of user Journey when it comes to running ads for
+different businesses so let's jump into this now Spotify advertising has increased the number of
+marketing campaigns it runs each year fivefold simply by automating customer Journeys like
+registration so the Spotify 1's pretty interesting cuz they've done a lot of different stuff and it kind of ties
+all of the case studies we just spoken about together so for Spotify they've done a lot with
+personalization so inside of their advertising their tracking website visits with personalization visitors
+see customized buttons and Banners based on their previous activity we're looking at an increased
+efficiency in workflows just by centralizing the workforce inside of slack and helping them get on
+boarded with different workflows that exist inside of slack they've got opportunities scoring helping rep
+sell fast with AI by prioritizing leads based on those most likely to close and again think about that you
+can use that for anyone in the B2B space that is trying to qualify leads or looking through a CRM at
+leads that have filled in a bunch of details and then you can get some form of AI agent to qualify those
+leads based on the information they filled out that is another huge huge benefit there opportunity
+scoring so definitely take note of that and again we just get another insight into a huge business just like
+Spotify in how automations and AI have helped them so look are you going to land Spotify tomorrow as
+a client definitely not but what this should do is it should give you insights into how the biggest brands
+on Earth are using AI in some way and if we really simplify everything all we're looking for is an
+indication of pain and then we're trying to find ways of how automations or AI Solutions can alleviate
+that pain that is how we're going to be able to charge money and that is how we're going to start to
+scale our AI automation agency okay now it's now up to you to go and check these case studies out for
+yourself like I said there's 83 so there are nuggets of gold in every single one of these case studies and
+each one should give you more confidence in terms of understanding what types of businesses need
+what and what types of businesses have different pain points now I wanted to leave you with a really
+quick idea on how you can actually you know discover these pain points and find these golden nuggets
+and this was just taken from the Gucci page all we really looking for is words sentences and phrases
+like this now ai generates b-size conversation repliers in a Gucci fied brand voice to help advisers
+assist customers in store by phone or via WhatsApp and it's all done with connected customer data AI
+also helps the fashion house practice its Mantra the human touch powered by technology by scaling the
+capabilities of its advisers with brand ready messages this is all keywords and messaging that we want
+to be using on our site these are all phrases and ways of packaging up what we're actually offering to
+make it make sense to these Brands and these companies these are all rocket fuel for our agency and
+if you go through all of these different case studies I guarantee you you're going to walk away with
+Page 64
+some gold so if you did want to learn how to build your own AI automation agency the first link in the
+description down below will be access to the network now the network is our private Community where
+we have hundreds of AI automation agency owners inside all learning from live master classes every
+single week resources and custom private guides that we have created for them if you want direct
+access to templates to chat Bots and different automations inside of Mak and zapia that is the place for
+you so click the link down below and you can join the network today other than that make sure you
+subscribe to the channel for more updates around the AI agency model as a whole and hopefully I'll see
+you in the next video catch you later bye-bye
+References and Recommendations: No references or recommendations found.

@@ -1,0 +1,123 @@
+Forget Prompting They Pay $510,000 for This Now...
+URL: https://www.youtube.com/watch?v=jjrsLH4KgKQ
+it's up to half a million I know what do you think of that first things first I'm probably gonna in this video I
+sat down with Joseph rosenal Joe has been focusing for more than a year on meta prompting the field
+of prompt engineering for which in Tropic the creators of Claude model one of the most capable AI
+models out there today they're offering up to half a million dollars uh as I'm editing this video on tropic
+change the title of a job description and I know that this is still the same job post because I still have all
+my highlights and now still the price is the same so it's not just meta prompting it's prompting in general
+now we explain what is meta prompting we discuss an Tropic decision to invest in research and prompt
+engineering and of course we'll look at his job position in Greater detail I found met prompting position
+please don't apply we need you at snph mindes you don't want me a spy in anthropic no but I would like
+to go through it how feasible it is because it's up to half a million I know what do you think of that first
+things first I'm probably gonna apply it's wild that is a wild annual salary for a meta prompting engineer
+granted like we'll go through the responsibilities and the knowledge and whatever you look at open AI
+for example there's that article where the machine learning Engineers are getting close to a million
+bucks a year at the race for talent is incredibly Cutthroat right now and so they are looking for a very
+specialized person someone who is very good at prompt engineering but also is very good at coding
+and programming and machine learning side of things too it's not as ridiculous maybe as at first glance
+if you look at what anthropic did with Claude model and all the series following that with prompt
+engineering baking prompting tool directly into clae which is super nice I use it quite often when I'm lazy
+on prompting and also helping us to debunk the blackbox that is AI and how does it work investing in
+research impr prompt engineers in testing and creating a library of bronze seems like paying off yeah
+it's it's a very different model than open AI has been going for especially more recently and in fact Dario
+amade the CEO of anthropic was originally at open AI I was really responsible for a lot of the early days
+of gpt2 and whatnot uh and didn't feel comfortable staying at open AI because the safety conversation
+wasn't at the Forefront and now they really turned the the tables here because not only at least at this
+point in time have the most capable model for a pretty good price but they got there by really focusing
+on safety first which is what everyone else is cutting Corners around to get the next thing out so it's very
+interesting and curious to see how this race continue let's look into this job position before we go
+through responsibilities I have some highlights anything that's stood out to you we should probably
+Define meta prompting quickly so prompt engineering right you're making prompts to solve a problem
+meta prompting is you're making prompts to make your prompts there's lots of research out there that
+actually AI is better at prompt engineering than we are which isn't too much of a surprise there so if you
+can find the right prompt it can make you all your prompts and in fact at synth Minds we do this all the
+time we have several meta prompts that we use like everyone as their favorite meta prompt generator
+and really this is about Gathering context from the user based on what you need and then it just
+optimizes your prompt to get the outputs that you're looking for yeah and meta prompting we teach that
+we've been teaching that for soon a year yeah I remember the first introduction to meta prompting was
+there was this Justin fineberg like Tik Tok Instagram video of him coming up with that idea and I was
+like that's all I'm going to do now because the most annoying part about prompt engineering is writing
+prompts so might as well have ai do like usual 80% of the work and then you add that little extra 20% to
+F tune in but way an Tropic kind of defines prompt engineering I find it also interesting it's a hibrid
+between research engineering and Behavioral Science what do you think I feel like they're missing one
+in there which is linguistic I think that's like probably the main thing everybody who went to study
+literacy and people were telling what are you going to dog English degree yeah you speak it why do you
+need a degree yeah exactly now you can actually do a lot with that so they're calling this a new
+discipline and that it's a range of techniques to systematically discover and document prompting best
+practices one part of his job post is developing prompt self-improvement techniques to automatically
+organize the model's performance on any given task yeah so that's definitely more than just using a text
+just to kind of of BU excitement for people I also find it funny like these type of mistakes where you
+Page 101
+know that there was something here yeah someone deleted it someone deleted it what we are asking
+for people when applying to share a specific prompting model evaluation synthetic data generation
+more on that coming uh model fine-tuning or application built with large language models that you
+proud of so you should show off complex and clever prompting architecture check or systematic
+evaluation of large language Model Behavior and response to different prompts which is funny again
+because they're talking about prompt architecture right and it's like what do you mean by that because
+again it's are we just talking English right now I guess there is like pseudo code obviously we use
+markdown a lot in our prompting I'd be curious to know what how are they thinking about prompt
+architecture because at the end of the day it's just like words when you get the interview ask them okay
+okay so do you want to take the wheel and dive into responsibilities what stood out to you yeah meta
+prompting again we're trying to abstract away prompt engineering as much as we can so this is the
+automated prompting techniques they want to fine-tune models and so what that means is that you
+have your base model right your foundational model and then you're feeding it extra data and you're
+training it on like just a little piece of it on that extra data and this is one of the biggest problems we're
+facing right now with these large language models is a lack of consistency and reliability in terms of
+how they respond so the idea here is how do you make it take a set of instructions so that it is reliable
+and consistent in its outputs and you're going to need to fine-tune the model that's what they do anyway
+through reinforcement learning from Human feedback so this is why the synthetic data was mentioned
+I'm sure is you need a lot of data to find- in these models like 10,000 50,000 100,000 different
+conversations and you're not going to get that out of humans in any sort of cost effable or scalable way
+valuation is another huge one there are very few reliable benchmarks right now in prompt engineering
+and very few reliable ways to test your prompts in Mass I can tell you starting off as a prompt engineer
+years and years ago at least that's how it feels like the most annoying part is testing the prompts
+because there's always an edge case there's always like the second you think you got everything
+worked out the client tries something and it doesn't work anymore and so really figuring out like what
+are you testing this prompt against to make sure again again that it's reliable and then I think like the
+the last one is the most important probably is there are these research papers coming out on prompt
+engineering like every single day there are new techniques being discovered it is really like I think they
+said earlier a very new field like obviously it existed before dropped but now with the capabilities of
+these models it's like you can throw a stone and discover something new with prompt engineering it
+feels like here I have to intersect because this exact last point I think every company should have that
+type of person who is staying up to date with latest research and prompting and model orchestration I
+would question it but just like sharing knowledge with the team not just like you save Tik Tok here or
+there but actually reading research papers and applying that knowledge and then going and teaching it
+the complexity just grows and I think that's definitely fascinating if you're interested in learning more
+about AI or large language models br the sponsor of this video is really where you learn by doing with
+thousands of interactive lessons in math data analytics programming and of course AI they have a
+whole learning path on computer science and programming which has five different levels and 11
+courses in it also one of their new immersive AI workshops is how large language models work if you're
+interested to go deeper and learn more in a fun and engaging way to try everything what brilliant has to
+offer free for full 30 days visit brilliant.org goo or click the link in the description box below you will also
+get 20% off on the annual premium subscription okay so here they say you might be good fit if you like
+you might be good fit if you but it doesn't sound to me like requirement no definitely not a requirement
+but again this is going to be extremely competitive and not only that but then they also have that line
+under which is strong candidates may also have you know what they're doing here is I think it's clever in
+some ways which is that and I think I even say it later it's you should apply to this job even if you don't
+think you're a fit because prompt engineering is such a new field we're all trying to figure it out and let's
+be honest to be a prompt engineer you don't need to know how to code you need to know maybe some
+of the concepts how things fit together the limitations that kind of stuff but you don't really know need to
+know machine learning or how to code so it's obviously helpful as they've said in this job description but
+it's good they didn't make that a requirement because you could be an amazing machine learning
+engineer in fact we know a couple are terrible at profing or other side amazing prompt Engineers who
+are learning programming right now not pointing fingers yes and it's funny because like I I use almost
+Page 102
+exclusively Claud to code things now again if you sat me down and we're like hey can you write some
+code that makes it's say hello world i' like uh the things that I and you were able to do without
+exclusively having software development or programming background just mind blowing if you're open
+to experiment and learn that that part about it I really like accessibility to turn your ideas and avoid
+these limitations which before would have just tapped you I programmed react with cl okay so strong
+candidates computer science mathematics so all these things help as you said again this is a plus and
+obviously it's going to be really competitive we are talking about half a million guys but it's really nice
+that we are opening doors and to anybody with great ideas because you never know where this maybe
+unique prompting technique or something that people build come from one more thing go there was a
+really interesting thing in this application if you scroll down here it is while we encourage people to use
+AI systems during their role don't use it for application process I actually really appreciated that setting
+that expectation up front and having you agree obviously it's a little annoying but it's good that they put
+that there and have it transparent that's what they want do you think people are not going to use aiop
+oh 100% they're going use a no question we'll see like we both know it's impossible to actually check so
+that they might do the thing where they look for those words that show up frequently or or whatever but
+at the end of the day I'm sure they'll find someone very skilled in the art of prompt engineering for this
+job
+References and Recommendations: No references or recommendations found.
